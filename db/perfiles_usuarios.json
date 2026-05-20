@@ -1,0 +1,8419 @@
+[
+  {
+    "id_cliente": 1,
+    "nombre": "Carlos Ortiz",
+    "edad": 65,
+    "ciudad": "Veracruz",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza",
+      "Deportes",
+      "Libros"
+    ],
+    "puntos_lealtad": 4887,
+    "gastos_mensuales": 3542.79,
+    "ingresos": 7356.78
+  },
+  {
+    "id_cliente": 2,
+    "nombre": "Andrea Torres",
+    "edad": 53,
+    "ciudad": "Tijuana",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1855,
+    "gastos_mensuales": 1849.39,
+    "ingresos": 6873.98
+  },
+  {
+    "id_cliente": 3,
+    "nombre": "Diana Sánchez",
+    "edad": 62,
+    "ciudad": "Saltillo",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Libros"
+    ],
+    "puntos_lealtad": 2326,
+    "gastos_mensuales": 9865.62,
+    "ingresos": 11950.1
+  },
+  {
+    "id_cliente": 4,
+    "nombre": "Juan Castillo",
+    "edad": 24,
+    "ciudad": "Aguascalientes",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 4995,
+    "gastos_mensuales": 11520.79,
+    "ingresos": 17896.52
+  },
+  {
+    "id_cliente": 5,
+    "nombre": "David López",
+    "edad": 53,
+    "ciudad": "Mérida",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes",
+      "Viajes"
+    ],
+    "puntos_lealtad": 4779,
+    "gastos_mensuales": 6805.75,
+    "ingresos": 21456.25
+  },
+  {
+    "id_cliente": 6,
+    "nombre": "Javier López",
+    "edad": 32,
+    "ciudad": "Monterrey",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 2327,
+    "gastos_mensuales": 1313.23,
+    "ingresos": 6275.91
+  },
+  {
+    "id_cliente": 7,
+    "nombre": "Sofía Moreno",
+    "edad": 61,
+    "ciudad": "Guadalajara",
+    "pais": "México",
+    "preferencias": [
+      "Moda",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4425,
+    "gastos_mensuales": 4946.03,
+    "ingresos": 9669.62
+  },
+  {
+    "id_cliente": 8,
+    "nombre": "Gabriela Moreno",
+    "edad": 53,
+    "ciudad": "León",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar",
+      "Electrónica",
+      "Viajes"
+    ],
+    "puntos_lealtad": 508,
+    "gastos_mensuales": 5049.9,
+    "ingresos": 19913.7
+  },
+  {
+    "id_cliente": 9,
+    "nombre": "Juan Martínez",
+    "edad": 54,
+    "ciudad": "San Luis Potosí",
+    "pais": "México",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 4139,
+    "gastos_mensuales": 9816.51,
+    "ingresos": 17031.65
+  },
+  {
+    "id_cliente": 10,
+    "nombre": "Roberto Álvarez",
+    "edad": 34,
+    "ciudad": "Chihuahua",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4830,
+    "gastos_mensuales": 3766.66,
+    "ingresos": 8972.82
+  },
+  {
+    "id_cliente": 11,
+    "nombre": "Patricia López",
+    "edad": 66,
+    "ciudad": "Ciudad de México",
+    "pais": "Mex",
+    "preferencias": [
+      "Moda",
+      "Hogar"
+    ],
+    "puntos_lealtad": 1302,
+    "gastos_mensuales": 11970.05,
+    "ingresos": 15768.36
+  },
+  {
+    "id_cliente": 12,
+    "nombre": "Laura Díaz",
+    "edad": 34,
+    "ciudad": "Veracruz",
+    "pais": "Mex",
+    "preferencias": [
+      "Electrónica",
+      "Música",
+      "Belleza"
+    ],
+    "puntos_lealtad": 988,
+    "gastos_mensuales": 5109.39,
+    "ingresos": 14855.94
+  },
+  {
+    "id_cliente": 13,
+    "nombre": "Laura Torres",
+    "edad": 64,
+    "ciudad": "Juárez",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología",
+      "Libros",
+      "Moda"
+    ],
+    "puntos_lealtad": 4208,
+    "gastos_mensuales": 2049.38,
+    "ingresos": 9701.33
+  },
+  {
+    "id_cliente": 14,
+    "nombre": "Ana Gómez",
+    "edad": 41,
+    "ciudad": "Toluca",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 4956,
+    "gastos_mensuales": 10226.7,
+    "ingresos": 18826.32
+  },
+  {
+    "id_cliente": 15,
+    "nombre": "Monica Rivera",
+    "edad": 37,
+    "ciudad": "León",
+    "pais": "Mex",
+    "preferencias": [
+      "Viajes",
+      "Deportes"
+    ],
+    "puntos_lealtad": 2023,
+    "gastos_mensuales": 2052.92,
+    "ingresos": 8771.67
+  },
+  {
+    "id_cliente": 16,
+    "nombre": "Roberto Ramos",
+    "edad": 26,
+    "ciudad": "Puebla",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza",
+      "Cocina",
+      "Viajes"
+    ],
+    "puntos_lealtad": 4553,
+    "gastos_mensuales": 9939.46,
+    "ingresos": 24653.26
+  },
+  {
+    "id_cliente": 17,
+    "nombre": "Ana Vargas",
+    "edad": 52,
+    "ciudad": "Tijuana",
+    "pais": "mex",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 3318,
+    "gastos_mensuales": 6709.95,
+    "ingresos": 16595.67
+  },
+  {
+    "id_cliente": 18,
+    "nombre": "José Torres",
+    "edad": 55,
+    "ciudad": "Veracruz",
+    "pais": "México",
+    "preferencias": [
+      "Moda",
+      "Viajes",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 4870,
+    "gastos_mensuales": 2155.25,
+    "ingresos": 7076.32
+  },
+  {
+    "id_cliente": 19,
+    "nombre": "Guadalupe López",
+    "edad": 20,
+    "ciudad": "San Luis Potosí",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 4261,
+    "gastos_mensuales": 1595.12,
+    "ingresos": 11799.46
+  },
+  {
+    "id_cliente": 20,
+    "nombre": "Luis Salazar",
+    "edad": 54,
+    "ciudad": "Chihuahua",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 2040,
+    "gastos_mensuales": 8292.55,
+    "ingresos": 13077.63
+  },
+  {
+    "id_cliente": 21,
+    "nombre": "Francisco Morales",
+    "edad": 44,
+    "ciudad": "Culiacán",
+    "pais": "Mex",
+    "preferencias": [
+      "Música",
+      "Hogar"
+    ],
+    "puntos_lealtad": 856,
+    "gastos_mensuales": 1856.45,
+    "ingresos": 12423.23
+  },
+  {
+    "id_cliente": 22,
+    "nombre": "Carlos García",
+    "edad": 30,
+    "ciudad": "Tijuana",
+    "pais": "mexico",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 1198,
+    "gastos_mensuales": 8955.99,
+    "ingresos": 21363.69
+  },
+  {
+    "id_cliente": 23,
+    "nombre": "Juan Jiménez",
+    "edad": 69,
+    "ciudad": "Veracruz",
+    "pais": "Mex",
+    "preferencias": [
+      "Electrónica",
+      "Libros"
+    ],
+    "puntos_lealtad": 464,
+    "gastos_mensuales": 5981.43,
+    "ingresos": 19349.75
+  },
+  {
+    "id_cliente": 24,
+    "nombre": "María Morales",
+    "edad": 49,
+    "ciudad": "Morelia",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología",
+      "Deportes",
+      "Belleza"
+    ],
+    "puntos_lealtad": 3335,
+    "gastos_mensuales": 11175.31,
+    "ingresos": 24208.35
+  },
+  {
+    "id_cliente": 25,
+    "nombre": "Sofía Vargas",
+    "edad": 68,
+    "ciudad": "Culiacán",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 3515,
+    "gastos_mensuales": 5044.5,
+    "ingresos": 19853.51
+  },
+  {
+    "id_cliente": 26,
+    "nombre": "Alejandro Ruiz",
+    "edad": 65,
+    "ciudad": "Veracruz",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología",
+      "Viajes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2619,
+    "gastos_mensuales": 2926.86,
+    "ingresos": 7756.97
+  },
+  {
+    "id_cliente": 27,
+    "nombre": "Arturo Díaz",
+    "edad": 28,
+    "ciudad": "Ciudad de México",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 1572,
+    "gastos_mensuales": 7342.79,
+    "ingresos": 15879.84
+  },
+  {
+    "id_cliente": 28,
+    "nombre": "David Pérez",
+    "edad": 54,
+    "ciudad": "León",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 721,
+    "gastos_mensuales": 1561.16,
+    "ingresos": 14764.81
+  },
+  {
+    "id_cliente": 29,
+    "nombre": "Ricardo Moreno",
+    "edad": 38,
+    "ciudad": "León",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3292,
+    "gastos_mensuales": 4343.34,
+    "ingresos": 9733.29
+  },
+  {
+    "id_cliente": 30,
+    "nombre": "Letizia López",
+    "edad": 18,
+    "ciudad": "Culiacán",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 650,
+    "gastos_mensuales": 5920.92,
+    "ingresos": 19998.16
+  },
+  {
+    "id_cliente": 31,
+    "nombre": "Juan Castro",
+    "edad": 33,
+    "ciudad": "Aguascalientes",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar",
+      "Tecnología",
+      "Libros"
+    ],
+    "puntos_lealtad": 1342,
+    "gastos_mensuales": 2283.51,
+    "ingresos": 8820.62
+  },
+  {
+    "id_cliente": 32,
+    "nombre": "Gabriela Díaz",
+    "edad": 18,
+    "ciudad": "Veracruz",
+    "pais": "mex",
+    "preferencias": [
+      "Tecnología",
+      "Libros"
+    ],
+    "puntos_lealtad": 898,
+    "gastos_mensuales": 7650.79,
+    "ingresos": 22484.82
+  },
+  {
+    "id_cliente": 33,
+    "nombre": "Roberto Gómez",
+    "edad": 35,
+    "ciudad": "Mérida",
+    "pais": "México",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 2858,
+    "gastos_mensuales": 2092.8,
+    "ingresos": 5484.27
+  },
+  {
+    "id_cliente": 34,
+    "nombre": "Letizia Juárez",
+    "edad": 21,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 2316,
+    "gastos_mensuales": 6460.58,
+    "ingresos": 11725.16
+  },
+  {
+    "id_cliente": 35,
+    "nombre": "Sofía Sánchez",
+    "edad": 65,
+    "ciudad": "Culiacán",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 4644,
+    "gastos_mensuales": 4535.83,
+    "ingresos": 8236.49
+  },
+  {
+    "id_cliente": 36,
+    "nombre": "Sergio Gómez",
+    "edad": 52,
+    "ciudad": "Ciudad de México",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 4821,
+    "gastos_mensuales": 1642.73,
+    "ingresos": 15123.11
+  },
+  {
+    "id_cliente": 37,
+    "nombre": "Letizia Rivera",
+    "edad": 20,
+    "ciudad": "Aguascalientes",
+    "pais": "México",
+    "preferencias": [
+      "Electrónica",
+      "Música",
+      "Cocina"
+    ],
+    "puntos_lealtad": 2094,
+    "gastos_mensuales": 1268.48,
+    "ingresos": 8008.95
+  },
+  {
+    "id_cliente": 38,
+    "nombre": "Letizia Vargas",
+    "edad": 33,
+    "ciudad": "Toluca",
+    "pais": "México",
+    "preferencias": [
+      "Belleza",
+      "Moda",
+      "Música"
+    ],
+    "puntos_lealtad": 3427,
+    "gastos_mensuales": 11706.97,
+    "ingresos": 23450.18
+  },
+  {
+    "id_cliente": 39,
+    "nombre": "Letizia Morales",
+    "edad": 69,
+    "ciudad": "León",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1354,
+    "gastos_mensuales": 9049.52,
+    "ingresos": 15367.93
+  },
+  {
+    "id_cliente": 40,
+    "nombre": "Monica Vargas",
+    "edad": 47,
+    "ciudad": "Aguascalientes",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza",
+      "Música",
+      "Deportes"
+    ],
+    "puntos_lealtad": 1914,
+    "gastos_mensuales": 10416.24,
+    "ingresos": 15307.88
+  },
+  {
+    "id_cliente": 41,
+    "nombre": "Sofía Juárez",
+    "edad": 22,
+    "ciudad": "Juárez",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 4223,
+    "gastos_mensuales": 8192.37,
+    "ingresos": 15372.43
+  },
+  {
+    "id_cliente": 42,
+    "nombre": "Sofía Sánchez",
+    "edad": 55,
+    "ciudad": "Juárez",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología",
+      "Moda"
+    ],
+    "puntos_lealtad": 938,
+    "gastos_mensuales": 11319.46,
+    "ingresos": 14818.9
+  },
+  {
+    "id_cliente": 43,
+    "nombre": "Carlos Castillo",
+    "edad": 54,
+    "ciudad": "Tijuana",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Moda",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 413,
+    "gastos_mensuales": 5687.61,
+    "ingresos": 20482.68
+  },
+  {
+    "id_cliente": 44,
+    "nombre": "Ricardo Vargas",
+    "edad": 39,
+    "ciudad": "Oaxaca",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Deportes",
+      "Hogar"
+    ],
+    "puntos_lealtad": 1070,
+    "gastos_mensuales": 4879.28,
+    "ingresos": 7788.94
+  },
+  {
+    "id_cliente": 45,
+    "nombre": "Fernando Ramírez",
+    "edad": 53,
+    "ciudad": "Puebla",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Tecnología",
+      "Cocina"
+    ],
+    "puntos_lealtad": 3494,
+    "gastos_mensuales": 8269.2,
+    "ingresos": 14509.58
+  },
+  {
+    "id_cliente": 46,
+    "nombre": "Javier Ramírez",
+    "edad": 31,
+    "ciudad": "Saltillo",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Electrónica",
+      "Libros"
+    ],
+    "puntos_lealtad": 3859,
+    "gastos_mensuales": 5348.04,
+    "ingresos": 18186.47
+  },
+  {
+    "id_cliente": 47,
+    "nombre": "Diana Salazar",
+    "edad": 28,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes",
+      "Hogar"
+    ],
+    "puntos_lealtad": 4272,
+    "gastos_mensuales": 6525.15,
+    "ingresos": 18843.71
+  },
+  {
+    "id_cliente": 48,
+    "nombre": "Ricardo Ramírez",
+    "edad": 32,
+    "ciudad": "Tijuana",
+    "pais": "México",
+    "preferencias": [
+      "Cocina",
+      "Moda",
+      "Belleza"
+    ],
+    "puntos_lealtad": 250,
+    "gastos_mensuales": 9966.34,
+    "ingresos": 21731.14
+  },
+  {
+    "id_cliente": 49,
+    "nombre": "Sonia López",
+    "edad": 47,
+    "ciudad": "Saltillo",
+    "pais": "México",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 3195,
+    "gastos_mensuales": 11820.08,
+    "ingresos": 21766.64
+  },
+  {
+    "id_cliente": 50,
+    "nombre": "Sergio Ramos",
+    "edad": 67,
+    "ciudad": "Monterrey",
+    "pais": "mexico",
+    "preferencias": [
+      "Música",
+      "Hogar"
+    ],
+    "puntos_lealtad": 1842,
+    "gastos_mensuales": 2452.8,
+    "ingresos": 13391.89
+  },
+  {
+    "id_cliente": 51,
+    "nombre": "Letizia Juárez",
+    "edad": 25,
+    "ciudad": "Culiacán",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3856,
+    "gastos_mensuales": 6002.96,
+    "ingresos": 15249.24
+  },
+  {
+    "id_cliente": 52,
+    "nombre": "Andrea Chávez",
+    "edad": 64,
+    "ciudad": "Cancún",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Cocina",
+      "Moda"
+    ],
+    "puntos_lealtad": 4538,
+    "gastos_mensuales": 11440.44,
+    "ingresos": 25028.98
+  },
+  {
+    "id_cliente": 53,
+    "nombre": "Monica Aguilar",
+    "edad": 35,
+    "ciudad": "Cancún",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica",
+      "Viajes"
+    ],
+    "puntos_lealtad": 2009,
+    "gastos_mensuales": 5840.78,
+    "ingresos": 17613.88
+  },
+  {
+    "id_cliente": 54,
+    "nombre": "José Flores",
+    "edad": 52,
+    "ciudad": "Guadalajara",
+    "pais": "México",
+    "preferencias": [
+      "Viajes",
+      "Belleza"
+    ],
+    "puntos_lealtad": 1285,
+    "gastos_mensuales": 8791.7,
+    "ingresos": 13840.12
+  },
+  {
+    "id_cliente": 55,
+    "nombre": "Juan Morales",
+    "edad": 44,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 3456,
+    "gastos_mensuales": 8572.24,
+    "ingresos": 19755.69
+  },
+  {
+    "id_cliente": 56,
+    "nombre": "Sonia Ruiz",
+    "edad": 62,
+    "ciudad": "Querétaro",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 3957,
+    "gastos_mensuales": 10128.38,
+    "ingresos": 17191.58
+  },
+  {
+    "id_cliente": 57,
+    "nombre": "Sergio Chávez",
+    "edad": 44,
+    "ciudad": "Veracruz",
+    "pais": "México",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 4049,
+    "gastos_mensuales": 4144.46,
+    "ingresos": 11214.29
+  },
+  {
+    "id_cliente": 58,
+    "nombre": "José Ortiz",
+    "edad": 61,
+    "ciudad": "Hermosillo",
+    "pais": "México",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 3878,
+    "gastos_mensuales": 5681.36,
+    "ingresos": 8058.68
+  },
+  {
+    "id_cliente": 59,
+    "nombre": "Eduardo Ruiz",
+    "edad": 60,
+    "ciudad": "Querétaro",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 3561,
+    "gastos_mensuales": 6782.18,
+    "ingresos": 20572.26
+  },
+  {
+    "id_cliente": 60,
+    "nombre": "José Martínez",
+    "edad": 47,
+    "ciudad": "San Luis Potosí",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 3155,
+    "gastos_mensuales": 2835.37,
+    "ingresos": 8217.4
+  },
+  {
+    "id_cliente": 61,
+    "nombre": "Raúl Álvarez",
+    "edad": 21,
+    "ciudad": "Aguascalientes",
+    "pais": "México",
+    "preferencias": [
+      "Música",
+      "Libros"
+    ],
+    "puntos_lealtad": 612,
+    "gastos_mensuales": 10151.0,
+    "ingresos": 18264.99
+  },
+  {
+    "id_cliente": 62,
+    "nombre": "Luis García",
+    "edad": 26,
+    "ciudad": "Morelia",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes",
+      "Cocina",
+      "Hogar"
+    ],
+    "puntos_lealtad": 4670,
+    "gastos_mensuales": 3032.84,
+    "ingresos": 5297.78
+  },
+  {
+    "id_cliente": 63,
+    "nombre": "María Mendoza",
+    "edad": 56,
+    "ciudad": "Monterrey",
+    "pais": "México",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 2598,
+    "gastos_mensuales": 8634.01,
+    "ingresos": 20603.69
+  },
+  {
+    "id_cliente": 64,
+    "nombre": "Ricardo Vargas",
+    "edad": 42,
+    "ciudad": "Hermosillo",
+    "pais": "México",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 672,
+    "gastos_mensuales": 1087.6,
+    "ingresos": 7143.04
+  },
+  {
+    "id_cliente": 65,
+    "nombre": "Carlos Rivera",
+    "edad": 54,
+    "ciudad": "Ciudad de México",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar",
+      "Belleza",
+      "Libros"
+    ],
+    "puntos_lealtad": 4414,
+    "gastos_mensuales": 10323.28,
+    "ingresos": 20128.63
+  },
+  {
+    "id_cliente": 66,
+    "nombre": "Arturo Morales",
+    "edad": 70,
+    "ciudad": "Morelia",
+    "pais": "Mex",
+    "preferencias": [
+      "Moda",
+      "Belleza"
+    ],
+    "puntos_lealtad": 3601,
+    "gastos_mensuales": 6466.76,
+    "ingresos": 12902.77
+  },
+  {
+    "id_cliente": 67,
+    "nombre": "Gabriela Hernández",
+    "edad": 57,
+    "ciudad": "Veracruz",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 3858,
+    "gastos_mensuales": 5677.46,
+    "ingresos": 17216.8
+  },
+  {
+    "id_cliente": 68,
+    "nombre": "Letizia López",
+    "edad": 35,
+    "ciudad": "Culiacán",
+    "pais": "México",
+    "preferencias": [
+      "Cocina",
+      "Libros"
+    ],
+    "puntos_lealtad": 3856,
+    "gastos_mensuales": 4409.81,
+    "ingresos": 9601.25
+  },
+  {
+    "id_cliente": 69,
+    "nombre": "María Reyes",
+    "edad": 31,
+    "ciudad": "Aguascalientes",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Música",
+      "Moda"
+    ],
+    "puntos_lealtad": 2838,
+    "gastos_mensuales": 1121.44,
+    "ingresos": 14183.83
+  },
+  {
+    "id_cliente": 70,
+    "nombre": "Ana López",
+    "edad": 33,
+    "ciudad": "Saltillo",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Libros"
+    ],
+    "puntos_lealtad": 4598,
+    "gastos_mensuales": 7024.86,
+    "ingresos": 15741.01
+  },
+  {
+    "id_cliente": 71,
+    "nombre": "Diana Torres",
+    "edad": 23,
+    "ciudad": "Mérida",
+    "pais": "México",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 3362,
+    "gastos_mensuales": 8034.11,
+    "ingresos": 16414.79
+  },
+  {
+    "id_cliente": 72,
+    "nombre": "Daniel Salazar",
+    "edad": 53,
+    "ciudad": "San Luis Potosí",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar",
+      "Libros",
+      "Moda"
+    ],
+    "puntos_lealtad": 3767,
+    "gastos_mensuales": 6100.52,
+    "ingresos": 15002.51
+  },
+  {
+    "id_cliente": 73,
+    "nombre": "José Pérez",
+    "edad": 65,
+    "ciudad": "Veracruz",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1619,
+    "gastos_mensuales": 3382.03,
+    "ingresos": 14758.73
+  },
+  {
+    "id_cliente": 74,
+    "nombre": "Sonia Díaz",
+    "edad": 56,
+    "ciudad": "Mérida",
+    "pais": "Mex",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 1640,
+    "gastos_mensuales": 3896.8,
+    "ingresos": 13561.43
+  },
+  {
+    "id_cliente": 75,
+    "nombre": "Roberto Gómez",
+    "edad": 35,
+    "ciudad": "Ciudad de México",
+    "pais": "Mex",
+    "preferencias": [
+      "Hogar",
+      "Moda"
+    ],
+    "puntos_lealtad": 4583,
+    "gastos_mensuales": 2809.75,
+    "ingresos": 4993.68
+  },
+  {
+    "id_cliente": 76,
+    "nombre": "Javier Reyes",
+    "edad": 48,
+    "ciudad": "Culiacán",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica",
+      "Viajes"
+    ],
+    "puntos_lealtad": 1560,
+    "gastos_mensuales": 1948.98,
+    "ingresos": 4108.43
+  },
+  {
+    "id_cliente": 77,
+    "nombre": "Monica López",
+    "edad": 43,
+    "ciudad": "Morelia",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 4776,
+    "gastos_mensuales": 11339.91,
+    "ingresos": 19550.39
+  },
+  {
+    "id_cliente": 78,
+    "nombre": "Juan García",
+    "edad": 25,
+    "ciudad": "Veracruz",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Electrónica",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 4933,
+    "gastos_mensuales": 9884.79,
+    "ingresos": 24223.42
+  },
+  {
+    "id_cliente": 79,
+    "nombre": "Arturo Ruiz",
+    "edad": 45,
+    "ciudad": "Mérida",
+    "pais": "Mex",
+    "preferencias": [
+      "Hogar",
+      "Tecnología",
+      "Música"
+    ],
+    "puntos_lealtad": 862,
+    "gastos_mensuales": 5845.76,
+    "ingresos": 13601.13
+  },
+  {
+    "id_cliente": 80,
+    "nombre": "Guadalupe Sánchez",
+    "edad": 53,
+    "ciudad": "Guadalajara",
+    "pais": "México",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 71,
+    "gastos_mensuales": 3764.04,
+    "ingresos": 6819.48
+  },
+  {
+    "id_cliente": 81,
+    "nombre": "Fernando Ramírez",
+    "edad": 62,
+    "ciudad": "Culiacán",
+    "pais": "Mex",
+    "preferencias": [
+      "Viajes",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1962,
+    "gastos_mensuales": 4062.1,
+    "ingresos": 9071.29
+  },
+  {
+    "id_cliente": 82,
+    "nombre": "Gabriela Gómez",
+    "edad": 35,
+    "ciudad": "Puebla",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina",
+      "Hogar"
+    ],
+    "puntos_lealtad": 538,
+    "gastos_mensuales": 5561.56,
+    "ingresos": 14640.87
+  },
+  {
+    "id_cliente": 83,
+    "nombre": "Letizia Ramírez",
+    "edad": 46,
+    "ciudad": "Monterrey",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 2541,
+    "gastos_mensuales": 7464.49,
+    "ingresos": 20179.61
+  },
+  {
+    "id_cliente": 84,
+    "nombre": "Sergio Morales",
+    "edad": 65,
+    "ciudad": "San Luis Potosí",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Libros",
+      "Viajes"
+    ],
+    "puntos_lealtad": 261,
+    "gastos_mensuales": 5702.9,
+    "ingresos": 15477.38
+  },
+  {
+    "id_cliente": 85,
+    "nombre": "Eduardo Ruiz",
+    "edad": 19,
+    "ciudad": "Juárez",
+    "pais": "Mex",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 1485,
+    "gastos_mensuales": 11573.4,
+    "ingresos": 24440.86
+  },
+  {
+    "id_cliente": 86,
+    "nombre": "Eduardo Morales",
+    "edad": 58,
+    "ciudad": "Morelia",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología",
+      "Viajes"
+    ],
+    "puntos_lealtad": 3900,
+    "gastos_mensuales": 11060.02,
+    "ingresos": 15419.38
+  },
+  {
+    "id_cliente": 87,
+    "nombre": "María Flores",
+    "edad": 44,
+    "ciudad": "Morelia",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Moda"
+    ],
+    "puntos_lealtad": 3330,
+    "gastos_mensuales": 4395.85,
+    "ingresos": 7755.65
+  },
+  {
+    "id_cliente": 88,
+    "nombre": "Sonia Castillo",
+    "edad": 50,
+    "ciudad": "Querétaro",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Viajes",
+      "Belleza"
+    ],
+    "puntos_lealtad": 3435,
+    "gastos_mensuales": 4322.59,
+    "ingresos": 10525.15
+  },
+  {
+    "id_cliente": 89,
+    "nombre": "Patricia Aguilar",
+    "edad": 46,
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 2237,
+    "gastos_mensuales": 6606.52,
+    "ingresos": 16700.76
+  },
+  {
+    "id_cliente": 90,
+    "nombre": "Miguel Aguilar",
+    "edad": 56,
+    "ciudad": "León",
+    "pais": "México",
+    "preferencias": [
+      "Electrónica",
+      "Libros",
+      "Viajes"
+    ],
+    "puntos_lealtad": 2595,
+    "gastos_mensuales": 10665.48,
+    "ingresos": 18966.73
+  },
+  {
+    "id_cliente": 91,
+    "nombre": "Letizia Pérez",
+    "edad": 47,
+    "ciudad": "Monterrey",
+    "pais": "México",
+    "preferencias": [
+      "Deportes",
+      "Tecnología",
+      "Música"
+    ],
+    "puntos_lealtad": 4132,
+    "gastos_mensuales": 1843.94,
+    "ingresos": 16743.28
+  },
+  {
+    "id_cliente": 92,
+    "nombre": "Patricia García",
+    "edad": 47,
+    "ciudad": "Veracruz",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Tecnología",
+      "Cocina"
+    ],
+    "puntos_lealtad": 3192,
+    "gastos_mensuales": 5453.49,
+    "ingresos": 13725.98
+  },
+  {
+    "id_cliente": 93,
+    "nombre": "Arturo López",
+    "edad": 35,
+    "ciudad": "Saltillo",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 4209,
+    "gastos_mensuales": 6492.3,
+    "ingresos": 19923.54
+  },
+  {
+    "id_cliente": 94,
+    "nombre": "Eduardo Ortiz",
+    "edad": 49,
+    "ciudad": "Puebla",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Libros"
+    ],
+    "puntos_lealtad": 4462,
+    "gastos_mensuales": 8931.77,
+    "ingresos": 21818.96
+  },
+  {
+    "id_cliente": 95,
+    "nombre": "Laura Vargas",
+    "edad": 38,
+    "ciudad": "Tijuana",
+    "pais": "México",
+    "preferencias": [
+      "Moda",
+      "Cocina"
+    ],
+    "puntos_lealtad": 4734,
+    "gastos_mensuales": 6981.48,
+    "ingresos": 16046.07
+  },
+  {
+    "id_cliente": 96,
+    "nombre": "Fernando Vargas",
+    "edad": 69,
+    "ciudad": "Hermosillo",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar",
+      "Música"
+    ],
+    "puntos_lealtad": 1296,
+    "gastos_mensuales": 1288.85,
+    "ingresos": 12970.02
+  },
+  {
+    "id_cliente": 97,
+    "nombre": "Arturo Pérez",
+    "edad": 46,
+    "ciudad": "Monterrey",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 175,
+    "gastos_mensuales": 6425.66,
+    "ingresos": 16098.01
+  },
+  {
+    "id_cliente": 98,
+    "nombre": "Sofía Flores",
+    "edad": 57,
+    "ciudad": "Hermosillo",
+    "pais": "Mex",
+    "preferencias": [
+      "Electrónica",
+      "Música",
+      "Cocina"
+    ],
+    "puntos_lealtad": 2741,
+    "gastos_mensuales": 1638.08,
+    "ingresos": 13797.91
+  },
+  {
+    "id_cliente": 99,
+    "nombre": "Patricia Juárez",
+    "edad": 52,
+    "ciudad": "Ciudad de México",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología",
+      "Música",
+      "Moda"
+    ],
+    "puntos_lealtad": 1973,
+    "gastos_mensuales": 7820.15,
+    "ingresos": 21356.85
+  },
+  {
+    "id_cliente": 100,
+    "nombre": "Gabriela Moreno",
+    "edad": 24,
+    "ciudad": "Culiacán",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Hogar",
+      "Belleza"
+    ],
+    "puntos_lealtad": 2503,
+    "gastos_mensuales": 5660.48,
+    "ingresos": 8940.24
+  },
+  {
+    "id_cliente": 101,
+    "nombre": "Francisco Vázquez",
+    "edad": 45,
+    "ciudad": "Puebla",
+    "pais": "México",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 4401,
+    "gastos_mensuales": 4433.0,
+    "ingresos": 7162.55
+  },
+  {
+    "id_cliente": 102,
+    "nombre": "Arturo Castillo",
+    "edad": 57,
+    "ciudad": "León",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4827,
+    "gastos_mensuales": 2703.82,
+    "ingresos": 5730.41
+  },
+  {
+    "id_cliente": 103,
+    "nombre": "Sofía Ortiz",
+    "edad": 18,
+    "ciudad": "Culiacán",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 4527,
+    "gastos_mensuales": 5964.88,
+    "ingresos": 11266.59
+  },
+  {
+    "id_cliente": 104,
+    "nombre": "Eduardo Ramírez",
+    "edad": 58,
+    "ciudad": "Saltillo",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 3792,
+    "gastos_mensuales": 5747.37,
+    "ingresos": 12239.72
+  },
+  {
+    "id_cliente": 105,
+    "nombre": "David Ruiz",
+    "edad": 40,
+    "ciudad": "Chihuahua",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar",
+      "Música"
+    ],
+    "puntos_lealtad": 2468,
+    "gastos_mensuales": 10357.36,
+    "ingresos": 13743.85
+  },
+  {
+    "id_cliente": 106,
+    "nombre": "Ricardo Ramos",
+    "edad": 65,
+    "ciudad": "Ciudad de México",
+    "pais": "mexico",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 2394,
+    "gastos_mensuales": 3874.18,
+    "ingresos": 13231.26
+  },
+  {
+    "id_cliente": 107,
+    "nombre": "Ana Mendoza",
+    "edad": 34,
+    "ciudad": "Puebla",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 372,
+    "gastos_mensuales": 9781.64,
+    "ingresos": 14628.7
+  },
+  {
+    "id_cliente": 108,
+    "nombre": "Juan Vargas",
+    "edad": 36,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Deportes"
+    ],
+    "puntos_lealtad": 1488,
+    "gastos_mensuales": 7291.23,
+    "ingresos": 18811.91
+  },
+  {
+    "id_cliente": 109,
+    "nombre": "Francisco Díaz",
+    "edad": 50,
+    "ciudad": "Juárez",
+    "pais": "México",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2155,
+    "gastos_mensuales": 9608.94,
+    "ingresos": 23002.93
+  },
+  {
+    "id_cliente": 110,
+    "nombre": "Juan Gómez",
+    "edad": 66,
+    "ciudad": "León",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros",
+      "Moda"
+    ],
+    "puntos_lealtad": 4615,
+    "gastos_mensuales": 9807.4,
+    "ingresos": 17895.71
+  },
+  {
+    "id_cliente": 111,
+    "nombre": "Laura Vázquez",
+    "edad": 61,
+    "ciudad": "Juárez",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza",
+      "Música"
+    ],
+    "puntos_lealtad": 3093,
+    "gastos_mensuales": 955.89,
+    "ingresos": 9931.33
+  },
+  {
+    "id_cliente": 112,
+    "nombre": "Roberto Flores",
+    "edad": 57,
+    "ciudad": "León",
+    "pais": "Mex",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 3853,
+    "gastos_mensuales": 6080.54,
+    "ingresos": 16134.65
+  },
+  {
+    "id_cliente": 113,
+    "nombre": "Javier Reyes",
+    "edad": 25,
+    "ciudad": "Monterrey",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Música",
+      "Belleza"
+    ],
+    "puntos_lealtad": 4453,
+    "gastos_mensuales": 2365.5,
+    "ingresos": 16666.9
+  },
+  {
+    "id_cliente": 114,
+    "nombre": "Raúl Moreno",
+    "edad": 52,
+    "ciudad": "Saltillo",
+    "pais": "México",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 3448,
+    "gastos_mensuales": 5880.81,
+    "ingresos": 16597.13
+  },
+  {
+    "id_cliente": 115,
+    "nombre": "Fernando Vázquez",
+    "edad": 31,
+    "ciudad": "Culiacán",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza",
+      "Viajes",
+      "Música"
+    ],
+    "puntos_lealtad": 1984,
+    "gastos_mensuales": 11317.39,
+    "ingresos": 16954.01
+  },
+  {
+    "id_cliente": 116,
+    "nombre": "Francisco Rodríguez",
+    "edad": 43,
+    "ciudad": "Juárez",
+    "pais": "México",
+    "preferencias": [
+      "Belleza",
+      "Moda"
+    ],
+    "puntos_lealtad": 1050,
+    "gastos_mensuales": 6898.02,
+    "ingresos": 21609.97
+  },
+  {
+    "id_cliente": 117,
+    "nombre": "Miguel Rodríguez",
+    "edad": 68,
+    "ciudad": "San Luis Potosí",
+    "pais": "México",
+    "preferencias": [
+      "Belleza",
+      "Hogar"
+    ],
+    "puntos_lealtad": 1081,
+    "gastos_mensuales": 7987.09,
+    "ingresos": 17749.99
+  },
+  {
+    "id_cliente": 118,
+    "nombre": "Guadalupe Flores",
+    "edad": 67,
+    "ciudad": "Puebla",
+    "pais": "Mex",
+    "preferencias": [
+      "Hogar",
+      "Belleza",
+      "Cocina"
+    ],
+    "puntos_lealtad": 2321,
+    "gastos_mensuales": 7367.49,
+    "ingresos": 19937.18
+  },
+  {
+    "id_cliente": 119,
+    "nombre": "Carlos Ortiz",
+    "edad": 19,
+    "ciudad": "Puebla",
+    "pais": "Mex",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2984,
+    "gastos_mensuales": 6850.41,
+    "ingresos": 19231.09
+  },
+  {
+    "id_cliente": 120,
+    "nombre": "Alejandro Gómez",
+    "edad": 65,
+    "ciudad": "Saltillo",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 570,
+    "gastos_mensuales": 4426.24,
+    "ingresos": 8691.44
+  },
+  {
+    "id_cliente": 121,
+    "nombre": "Jorge García",
+    "edad": 57,
+    "ciudad": "Ciudad de México",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes",
+      "Moda"
+    ],
+    "puntos_lealtad": 3802,
+    "gastos_mensuales": 6548.27,
+    "ingresos": 9965.97
+  },
+  {
+    "id_cliente": 122,
+    "nombre": "Carlos Reyes",
+    "edad": 63,
+    "ciudad": "Culiacán",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes",
+      "Cocina",
+      "Viajes"
+    ],
+    "puntos_lealtad": 711,
+    "gastos_mensuales": 10289.74,
+    "ingresos": 17831.3
+  },
+  {
+    "id_cliente": 123,
+    "nombre": "Gabriela Ruiz",
+    "edad": 53,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4943,
+    "gastos_mensuales": 1535.64,
+    "ingresos": 7110.85
+  },
+  {
+    "id_cliente": 124,
+    "nombre": "Arturo Aguilar",
+    "edad": 59,
+    "ciudad": "Veracruz",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Viajes",
+      "Música"
+    ],
+    "puntos_lealtad": 3573,
+    "gastos_mensuales": 1910.8,
+    "ingresos": 13033.93
+  },
+  {
+    "id_cliente": 125,
+    "nombre": "Daniel Salazar",
+    "edad": 24,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar",
+      "Música"
+    ],
+    "puntos_lealtad": 2610,
+    "gastos_mensuales": 4596.03,
+    "ingresos": 12491.52
+  },
+  {
+    "id_cliente": 126,
+    "nombre": "Juan Chávez",
+    "edad": 23,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros",
+      "Moda",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 841,
+    "gastos_mensuales": 8492.4,
+    "ingresos": 16657.88
+  },
+  {
+    "id_cliente": 127,
+    "nombre": "José Ortiz",
+    "edad": 25,
+    "ciudad": "Saltillo",
+    "pais": "mex",
+    "preferencias": [
+      "Moda",
+      "Electrónica",
+      "Deportes"
+    ],
+    "puntos_lealtad": 3514,
+    "gastos_mensuales": 7368.41,
+    "ingresos": 16669.03
+  },
+  {
+    "id_cliente": 128,
+    "nombre": "Ana Gómez",
+    "edad": 60,
+    "ciudad": "Morelia",
+    "pais": "México",
+    "preferencias": [
+      "Deportes",
+      "Libros",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 936,
+    "gastos_mensuales": 4738.44,
+    "ingresos": 14251.38
+  },
+  {
+    "id_cliente": 129,
+    "nombre": "Guadalupe Rivera",
+    "edad": 45,
+    "ciudad": "Veracruz",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología",
+      "Moda"
+    ],
+    "puntos_lealtad": 2240,
+    "gastos_mensuales": 2086.72,
+    "ingresos": 7708.11
+  },
+  {
+    "id_cliente": 130,
+    "nombre": "Letizia Flores",
+    "edad": 40,
+    "ciudad": "Querétaro",
+    "pais": "México",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1223,
+    "gastos_mensuales": 3860.63,
+    "ingresos": 15771.95
+  },
+  {
+    "id_cliente": 131,
+    "nombre": "Juan Salazar",
+    "edad": 51,
+    "ciudad": "Tijuana",
+    "pais": "mexico",
+    "preferencias": [
+      "Música",
+      "Belleza",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 3489,
+    "gastos_mensuales": 9098.85,
+    "ingresos": 23732.38
+  },
+  {
+    "id_cliente": 132,
+    "nombre": "Sonia Ruiz",
+    "edad": 56,
+    "ciudad": "Guadalajara",
+    "pais": "Mex",
+    "preferencias": [
+      "Moda",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1324,
+    "gastos_mensuales": 4944.59,
+    "ingresos": 16325.34
+  },
+  {
+    "id_cliente": 133,
+    "nombre": "Laura Ortiz",
+    "edad": 45,
+    "ciudad": "Morelia",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 3442,
+    "gastos_mensuales": 1357.34,
+    "ingresos": 4417.9
+  },
+  {
+    "id_cliente": 134,
+    "nombre": "Javier Ortiz",
+    "edad": 61,
+    "ciudad": "Chihuahua",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 4366,
+    "gastos_mensuales": 2074.76,
+    "ingresos": 9663.64
+  },
+  {
+    "id_cliente": 135,
+    "nombre": "Miguel Martínez",
+    "edad": 37,
+    "ciudad": "Tijuana",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Deportes",
+      "Hogar"
+    ],
+    "puntos_lealtad": 2143,
+    "gastos_mensuales": 5226.95,
+    "ingresos": 15018.17
+  },
+  {
+    "id_cliente": 136,
+    "nombre": "María Gómez",
+    "edad": 42,
+    "ciudad": "Veracruz",
+    "pais": "México",
+    "preferencias": [
+      "Moda",
+      "Belleza"
+    ],
+    "puntos_lealtad": 4148,
+    "gastos_mensuales": 886.57,
+    "ingresos": 12597.75
+  },
+  {
+    "id_cliente": 137,
+    "nombre": "Miguel Jiménez",
+    "edad": 22,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Moda",
+      "Belleza",
+      "Música"
+    ],
+    "puntos_lealtad": 4747,
+    "gastos_mensuales": 10451.76,
+    "ingresos": 13001.69
+  },
+  {
+    "id_cliente": 138,
+    "nombre": "José Sánchez",
+    "edad": 69,
+    "ciudad": "Oaxaca",
+    "pais": "mexico",
+    "preferencias": [
+      "Música",
+      "Libros"
+    ],
+    "puntos_lealtad": 3014,
+    "gastos_mensuales": 2089.94,
+    "ingresos": 4361.08
+  },
+  {
+    "id_cliente": 139,
+    "nombre": "Eduardo Castillo",
+    "edad": 51,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 2591,
+    "gastos_mensuales": 10258.22,
+    "ingresos": 15421.33
+  },
+  {
+    "id_cliente": 140,
+    "nombre": "Gabriela Pérez",
+    "edad": 51,
+    "ciudad": "Cancún",
+    "pais": "México",
+    "preferencias": [
+      "Moda",
+      "Hogar",
+      "Cocina"
+    ],
+    "puntos_lealtad": 2912,
+    "gastos_mensuales": 9526.12,
+    "ingresos": 12519.05
+  },
+  {
+    "id_cliente": 141,
+    "nombre": "María Mendoza",
+    "edad": 27,
+    "ciudad": "Guadalajara",
+    "pais": "México",
+    "preferencias": [
+      "Electrónica",
+      "Hogar"
+    ],
+    "puntos_lealtad": 4097,
+    "gastos_mensuales": 1951.41,
+    "ingresos": 7279.0
+  },
+  {
+    "id_cliente": 142,
+    "nombre": "Gabriela Aguilar",
+    "edad": 57,
+    "ciudad": "San Luis Potosí",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Viajes"
+    ],
+    "puntos_lealtad": 1286,
+    "gastos_mensuales": 8428.69,
+    "ingresos": 21895.32
+  },
+  {
+    "id_cliente": 143,
+    "nombre": "Sofía Ruiz",
+    "edad": 21,
+    "ciudad": "Aguascalientes",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza",
+      "Viajes"
+    ],
+    "puntos_lealtad": 2592,
+    "gastos_mensuales": 5752.73,
+    "ingresos": 11689.4
+  },
+  {
+    "id_cliente": 144,
+    "nombre": "Juan Aguilar",
+    "edad": 23,
+    "ciudad": "Oaxaca",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Deportes"
+    ],
+    "puntos_lealtad": 3840,
+    "gastos_mensuales": 1437.17,
+    "ingresos": 14249.23
+  },
+  {
+    "id_cliente": 145,
+    "nombre": "Ana Flores",
+    "edad": 56,
+    "ciudad": "Morelia",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología",
+      "Deportes",
+      "Viajes"
+    ],
+    "puntos_lealtad": 556,
+    "gastos_mensuales": 10981.36,
+    "ingresos": 20412.9
+  },
+  {
+    "id_cliente": 146,
+    "nombre": "Gabriela Sánchez",
+    "edad": 20,
+    "ciudad": "León",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza",
+      "Moda"
+    ],
+    "puntos_lealtad": 3649,
+    "gastos_mensuales": 11802.72,
+    "ingresos": 14899.0
+  },
+  {
+    "id_cliente": 147,
+    "nombre": "Daniel Ramos",
+    "edad": 39,
+    "ciudad": "Oaxaca",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología",
+      "Electrónica",
+      "Moda"
+    ],
+    "puntos_lealtad": 2791,
+    "gastos_mensuales": 4975.94,
+    "ingresos": 10653.56
+  },
+  {
+    "id_cliente": 148,
+    "nombre": "Javier Hernández",
+    "edad": 64,
+    "ciudad": "Oaxaca",
+    "pais": "México",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 2780,
+    "gastos_mensuales": 1858.47,
+    "ingresos": 12677.4
+  },
+  {
+    "id_cliente": 149,
+    "nombre": "Javier Aguilar",
+    "edad": 62,
+    "ciudad": "Hermosillo",
+    "pais": "México",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 4924,
+    "gastos_mensuales": 8232.46,
+    "ingresos": 22150.16
+  },
+  {
+    "id_cliente": 150,
+    "nombre": "Luis Ortiz",
+    "edad": 62,
+    "ciudad": "Cancún",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza",
+      "Libros",
+      "Música"
+    ],
+    "puntos_lealtad": 3518,
+    "gastos_mensuales": 8007.12,
+    "ingresos": 14277.32
+  },
+  {
+    "id_cliente": 151,
+    "nombre": "José Ramos",
+    "edad": 49,
+    "ciudad": "Tijuana",
+    "pais": "México",
+    "preferencias": [
+      "Moda",
+      "Deportes",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1176,
+    "gastos_mensuales": 4259.3,
+    "ingresos": 18624.5
+  },
+  {
+    "id_cliente": 152,
+    "nombre": "Jorge Ramos",
+    "edad": 52,
+    "ciudad": "Cancún",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 2808,
+    "gastos_mensuales": 4112.87,
+    "ingresos": 16358.43
+  },
+  {
+    "id_cliente": 153,
+    "nombre": "Sonia Mendoza",
+    "edad": 69,
+    "ciudad": "Toluca",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica",
+      "Música",
+      "Cocina"
+    ],
+    "puntos_lealtad": 407,
+    "gastos_mensuales": 2617.17,
+    "ingresos": 15424.66
+  },
+  {
+    "id_cliente": 154,
+    "nombre": "Sonia Salazar",
+    "edad": 68,
+    "ciudad": "Culiacán",
+    "pais": "México",
+    "preferencias": [
+      "Moda",
+      "Hogar"
+    ],
+    "puntos_lealtad": 4424,
+    "gastos_mensuales": 11659.39,
+    "ingresos": 21597.13
+  },
+  {
+    "id_cliente": 155,
+    "nombre": "Sergio Chávez",
+    "edad": 30,
+    "ciudad": "Aguascalientes",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 3832,
+    "gastos_mensuales": 11614.68,
+    "ingresos": 23811.49
+  },
+  {
+    "id_cliente": 156,
+    "nombre": "Monica Martínez",
+    "edad": 69,
+    "ciudad": "Oaxaca",
+    "pais": "México",
+    "preferencias": [
+      "Música",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 2098,
+    "gastos_mensuales": 6707.55,
+    "ingresos": 21269.04
+  },
+  {
+    "id_cliente": 157,
+    "nombre": "Carlos Moreno",
+    "edad": 51,
+    "ciudad": "Monterrey",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 737,
+    "gastos_mensuales": 10590.11,
+    "ingresos": 19799.14
+  },
+  {
+    "id_cliente": 158,
+    "nombre": "Monica Morales",
+    "edad": 23,
+    "ciudad": "León",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 2913,
+    "gastos_mensuales": 5832.38,
+    "ingresos": 14505.97
+  },
+  {
+    "id_cliente": 159,
+    "nombre": "Guadalupe Castillo",
+    "edad": 23,
+    "ciudad": "Aguascalientes",
+    "pais": "México",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 280,
+    "gastos_mensuales": 1396.48,
+    "ingresos": 9922.57
+  },
+  {
+    "id_cliente": 160,
+    "nombre": "Javier Vargas",
+    "edad": 48,
+    "ciudad": "Puebla",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza",
+      "Moda"
+    ],
+    "puntos_lealtad": 3724,
+    "gastos_mensuales": 9663.46,
+    "ingresos": 13452.25
+  },
+  {
+    "id_cliente": 161,
+    "nombre": "Roberto Salazar",
+    "edad": 56,
+    "ciudad": "Cancún",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Belleza",
+      "Cocina"
+    ],
+    "puntos_lealtad": 960,
+    "gastos_mensuales": 3666.35,
+    "ingresos": 16520.87
+  },
+  {
+    "id_cliente": 162,
+    "nombre": "Gabriela Rivera",
+    "edad": 57,
+    "ciudad": "Culiacán",
+    "pais": "Mex",
+    "preferencias": [
+      "Hogar",
+      "Libros"
+    ],
+    "puntos_lealtad": 958,
+    "gastos_mensuales": 2164.7,
+    "ingresos": 7264.41
+  },
+  {
+    "id_cliente": 163,
+    "nombre": "Guadalupe Moreno",
+    "edad": 27,
+    "ciudad": "Mérida",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 62,
+    "gastos_mensuales": 984.08,
+    "ingresos": 9683.96
+  },
+  {
+    "id_cliente": 164,
+    "nombre": "Jorge Vázquez",
+    "edad": 22,
+    "ciudad": "Cancún",
+    "pais": "Mex",
+    "preferencias": [
+      "Moda",
+      "Hogar",
+      "Música"
+    ],
+    "puntos_lealtad": 3248,
+    "gastos_mensuales": 2897.92,
+    "ingresos": 13584.71
+  },
+  {
+    "id_cliente": 165,
+    "nombre": "Miguel Vázquez",
+    "edad": 68,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes",
+      "Música"
+    ],
+    "puntos_lealtad": 2025,
+    "gastos_mensuales": 11787.64,
+    "ingresos": 17085.09
+  },
+  {
+    "id_cliente": 166,
+    "nombre": "Monica Aguilar",
+    "edad": 29,
+    "ciudad": "Culiacán",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza",
+      "Moda",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1543,
+    "gastos_mensuales": 1296.56,
+    "ingresos": 10394.74
+  },
+  {
+    "id_cliente": 167,
+    "nombre": "Alejandro Ramírez",
+    "edad": 30,
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 393,
+    "gastos_mensuales": 8819.7,
+    "ingresos": 23086.57
+  },
+  {
+    "id_cliente": 168,
+    "nombre": "Patricia Hernández",
+    "edad": 20,
+    "ciudad": "Tijuana",
+    "pais": "mex",
+    "preferencias": [
+      "Libros",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 2974,
+    "gastos_mensuales": 5260.11,
+    "ingresos": 17860.39
+  },
+  {
+    "id_cliente": 169,
+    "nombre": "Daniel Castro",
+    "edad": 43,
+    "ciudad": "Culiacán",
+    "pais": "mexico",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 2827,
+    "gastos_mensuales": 3860.03,
+    "ingresos": 16251.48
+  },
+  {
+    "id_cliente": 170,
+    "nombre": "Diana Díaz",
+    "edad": 35,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 696,
+    "gastos_mensuales": 8551.17,
+    "ingresos": 15326.68
+  },
+  {
+    "id_cliente": 171,
+    "nombre": "Juan Flores",
+    "edad": 60,
+    "ciudad": "Mérida",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 3702,
+    "gastos_mensuales": 6909.31,
+    "ingresos": 13085.06
+  },
+  {
+    "id_cliente": 172,
+    "nombre": "Arturo Vargas",
+    "edad": 40,
+    "ciudad": "Oaxaca",
+    "pais": "mexico",
+    "preferencias": [
+      "Música",
+      "Electrónica",
+      "Viajes"
+    ],
+    "puntos_lealtad": 2299,
+    "gastos_mensuales": 4737.33,
+    "ingresos": 7287.95
+  },
+  {
+    "id_cliente": 173,
+    "nombre": "Ricardo Sánchez",
+    "edad": 19,
+    "ciudad": "Puebla",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Belleza",
+      "Música"
+    ],
+    "puntos_lealtad": 335,
+    "gastos_mensuales": 4869.08,
+    "ingresos": 17283.33
+  },
+  {
+    "id_cliente": 174,
+    "nombre": "Francisco Castillo",
+    "edad": 54,
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 3735,
+    "gastos_mensuales": 3443.15,
+    "ingresos": 13830.27
+  },
+  {
+    "id_cliente": 175,
+    "nombre": "Jorge Vázquez",
+    "edad": 43,
+    "ciudad": "San Luis Potosí",
+    "pais": "mex",
+    "preferencias": [
+      "Moda",
+      "Viajes"
+    ],
+    "puntos_lealtad": 2094,
+    "gastos_mensuales": 9346.55,
+    "ingresos": 18807.53
+  },
+  {
+    "id_cliente": 176,
+    "nombre": "David Vargas",
+    "edad": 53,
+    "ciudad": "Monterrey",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 2182,
+    "gastos_mensuales": 9039.56,
+    "ingresos": 17527.13
+  },
+  {
+    "id_cliente": 177,
+    "nombre": "Ana Pérez",
+    "edad": 26,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Hogar",
+      "Libros"
+    ],
+    "puntos_lealtad": 1464,
+    "gastos_mensuales": 8572.58,
+    "ingresos": 23554.75
+  },
+  {
+    "id_cliente": 178,
+    "nombre": "Roberto Álvarez",
+    "edad": 36,
+    "ciudad": "Mérida",
+    "pais": "México",
+    "preferencias": [
+      "Viajes",
+      "Belleza",
+      "Moda"
+    ],
+    "puntos_lealtad": 1476,
+    "gastos_mensuales": 8279.81,
+    "ingresos": 19503.84
+  },
+  {
+    "id_cliente": 179,
+    "nombre": "Luis García",
+    "edad": 68,
+    "ciudad": "Morelia",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología",
+      "Hogar"
+    ],
+    "puntos_lealtad": 3006,
+    "gastos_mensuales": 2159.26,
+    "ingresos": 6772.0
+  },
+  {
+    "id_cliente": 180,
+    "nombre": "Andrea Castro",
+    "edad": 23,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Moda",
+      "Viajes"
+    ],
+    "puntos_lealtad": 3311,
+    "gastos_mensuales": 9801.01,
+    "ingresos": 18972.42
+  },
+  {
+    "id_cliente": 181,
+    "nombre": "Juan Gómez",
+    "edad": 38,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Tecnología",
+      "Música"
+    ],
+    "puntos_lealtad": 3866,
+    "gastos_mensuales": 9414.64,
+    "ingresos": 22118.05
+  },
+  {
+    "id_cliente": 182,
+    "nombre": "Gabriela Ruiz",
+    "edad": 29,
+    "ciudad": "Puebla",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Moda",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4169,
+    "gastos_mensuales": 10633.15,
+    "ingresos": 22776.57
+  },
+  {
+    "id_cliente": 183,
+    "nombre": "María Flores",
+    "edad": 63,
+    "ciudad": "León",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 4300,
+    "gastos_mensuales": 6602.74,
+    "ingresos": 12556.36
+  },
+  {
+    "id_cliente": 184,
+    "nombre": "Sofía Gómez",
+    "edad": 58,
+    "ciudad": "Mérida",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza",
+      "Libros"
+    ],
+    "puntos_lealtad": 4167,
+    "gastos_mensuales": 2998.58,
+    "ingresos": 17431.15
+  },
+  {
+    "id_cliente": 185,
+    "nombre": "Andrea Flores",
+    "edad": 54,
+    "ciudad": "Ciudad de México",
+    "pais": "Mex",
+    "preferencias": [
+      "Electrónica",
+      "Cocina",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 715,
+    "gastos_mensuales": 8177.81,
+    "ingresos": 19546.04
+  },
+  {
+    "id_cliente": 186,
+    "nombre": "Eduardo Morales",
+    "edad": 57,
+    "ciudad": "Querétaro",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 4519,
+    "gastos_mensuales": 3764.15,
+    "ingresos": 8504.66
+  },
+  {
+    "id_cliente": 187,
+    "nombre": "David Ramírez",
+    "edad": 47,
+    "ciudad": "Guadalajara",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros",
+      "Viajes"
+    ],
+    "puntos_lealtad": 1344,
+    "gastos_mensuales": 3542.63,
+    "ingresos": 16038.17
+  },
+  {
+    "id_cliente": 188,
+    "nombre": "Luis Flores",
+    "edad": 63,
+    "ciudad": "San Luis Potosí",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Viajes"
+    ],
+    "puntos_lealtad": 3316,
+    "gastos_mensuales": 6001.75,
+    "ingresos": 12424.25
+  },
+  {
+    "id_cliente": 189,
+    "nombre": "Guadalupe Jiménez",
+    "edad": 25,
+    "ciudad": "Juárez",
+    "pais": "mexico",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 2080,
+    "gastos_mensuales": 6567.78,
+    "ingresos": 9948.17
+  },
+  {
+    "id_cliente": 190,
+    "nombre": "Arturo Mendoza",
+    "edad": 44,
+    "ciudad": "León",
+    "pais": "México",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 2732,
+    "gastos_mensuales": 1366.78,
+    "ingresos": 15656.78
+  },
+  {
+    "id_cliente": 191,
+    "nombre": "Patricia Castro",
+    "edad": 37,
+    "ciudad": "Morelia",
+    "pais": "Mex",
+    "preferencias": [
+      "Moda",
+      "Hogar",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 787,
+    "gastos_mensuales": 6380.57,
+    "ingresos": 15071.99
+  },
+  {
+    "id_cliente": 192,
+    "nombre": "Francisco Rodríguez",
+    "edad": 21,
+    "ciudad": "Mérida",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Viajes"
+    ],
+    "puntos_lealtad": 4944,
+    "gastos_mensuales": 11626.89,
+    "ingresos": 16423.77
+  },
+  {
+    "id_cliente": 193,
+    "nombre": "Sergio Hernández",
+    "edad": 64,
+    "ciudad": "Aguascalientes",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Libros",
+      "Deportes"
+    ],
+    "puntos_lealtad": 3047,
+    "gastos_mensuales": 10288.33,
+    "ingresos": 17890.39
+  },
+  {
+    "id_cliente": 194,
+    "nombre": "Francisco Álvarez",
+    "edad": 36,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 4180,
+    "gastos_mensuales": 1372.97,
+    "ingresos": 10676.59
+  },
+  {
+    "id_cliente": 195,
+    "nombre": "Andrea Pérez",
+    "edad": 26,
+    "ciudad": "Monterrey",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Libros"
+    ],
+    "puntos_lealtad": 3107,
+    "gastos_mensuales": 10043.49,
+    "ingresos": 20145.63
+  },
+  {
+    "id_cliente": 196,
+    "nombre": "Jorge Castillo",
+    "edad": 50,
+    "ciudad": "Ciudad de México",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología",
+      "Moda"
+    ],
+    "puntos_lealtad": 368,
+    "gastos_mensuales": 9255.61,
+    "ingresos": 13843.36
+  },
+  {
+    "id_cliente": 197,
+    "nombre": "Luis Mendoza",
+    "edad": 50,
+    "ciudad": "Puebla",
+    "pais": "mex",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 2659,
+    "gastos_mensuales": 9804.42,
+    "ingresos": 18555.75
+  },
+  {
+    "id_cliente": 198,
+    "nombre": "Javier Ruiz",
+    "edad": 39,
+    "ciudad": "Cancún",
+    "pais": "mexico",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 4661,
+    "gastos_mensuales": 11894.9,
+    "ingresos": 23506.05
+  },
+  {
+    "id_cliente": 199,
+    "nombre": "Daniel Ruiz",
+    "edad": 37,
+    "ciudad": "Querétaro",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Deportes"
+    ],
+    "puntos_lealtad": 2225,
+    "gastos_mensuales": 4925.61,
+    "ingresos": 15685.09
+  },
+  {
+    "id_cliente": 200,
+    "nombre": "Gabriela Salazar",
+    "edad": 57,
+    "ciudad": "Hermosillo",
+    "pais": "México",
+    "preferencias": [
+      "Cocina",
+      "Hogar",
+      "Deportes"
+    ],
+    "puntos_lealtad": 2034,
+    "gastos_mensuales": 7335.46,
+    "ingresos": 11552.12
+  },
+  {
+    "id_cliente": 201,
+    "nombre": "Miguel Jiménez",
+    "edad": 38,
+    "ciudad": "Saltillo",
+    "pais": "México",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 3432,
+    "gastos_mensuales": 11419.9,
+    "ingresos": 14848.54
+  },
+  {
+    "id_cliente": 202,
+    "nombre": "Alejandro Moreno",
+    "edad": 26,
+    "ciudad": "Cancún",
+    "pais": "México",
+    "preferencias": [
+      "Hogar",
+      "Música",
+      "Viajes"
+    ],
+    "puntos_lealtad": 4644,
+    "gastos_mensuales": 10575.56,
+    "ingresos": 22141.44
+  },
+  {
+    "id_cliente": 203,
+    "nombre": "Laura Vargas",
+    "edad": 52,
+    "ciudad": "San Luis Potosí",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 2215,
+    "gastos_mensuales": 5020.44,
+    "ingresos": 19457.35
+  },
+  {
+    "id_cliente": 204,
+    "nombre": "Javier Ramos",
+    "edad": 36,
+    "ciudad": "Tijuana",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Hogar",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 2647,
+    "gastos_mensuales": 3924.87,
+    "ingresos": 9805.36
+  },
+  {
+    "id_cliente": 205,
+    "nombre": "Sofía Ramírez",
+    "edad": 25,
+    "ciudad": "Chihuahua",
+    "pais": "mexico",
+    "preferencias": [
+      "Moda",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3282,
+    "gastos_mensuales": 11257.44,
+    "ingresos": 23597.71
+  },
+  {
+    "id_cliente": 206,
+    "nombre": "Juan Vázquez",
+    "edad": 46,
+    "ciudad": "Juárez",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica",
+      "Libros"
+    ],
+    "puntos_lealtad": 1802,
+    "gastos_mensuales": 1271.14,
+    "ingresos": 15690.22
+  },
+  {
+    "id_cliente": 207,
+    "nombre": "Sofía Gómez",
+    "edad": 24,
+    "ciudad": "Oaxaca",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 2036,
+    "gastos_mensuales": 3836.69,
+    "ingresos": 13142.92
+  },
+  {
+    "id_cliente": 208,
+    "nombre": "Carlos Morales",
+    "edad": 39,
+    "ciudad": "Morelia",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 1176,
+    "gastos_mensuales": 3327.52,
+    "ingresos": 8354.4
+  },
+  {
+    "id_cliente": 209,
+    "nombre": "Gabriela Vargas",
+    "edad": 48,
+    "ciudad": "Morelia",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 2403,
+    "gastos_mensuales": 11752.6,
+    "ingresos": 15805.83
+  },
+  {
+    "id_cliente": 210,
+    "nombre": "Eduardo García",
+    "edad": 52,
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Deportes"
+    ],
+    "puntos_lealtad": 3473,
+    "gastos_mensuales": 10968.89,
+    "ingresos": 14131.88
+  },
+  {
+    "id_cliente": 211,
+    "nombre": "Patricia Sánchez",
+    "edad": 65,
+    "ciudad": "Mérida",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 125,
+    "gastos_mensuales": 11968.32,
+    "ingresos": 19129.25
+  },
+  {
+    "id_cliente": 212,
+    "nombre": "Laura Aguilar",
+    "edad": 52,
+    "ciudad": "Cancún",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Belleza"
+    ],
+    "puntos_lealtad": 1149,
+    "gastos_mensuales": 11198.69,
+    "ingresos": 17554.24
+  },
+  {
+    "id_cliente": 213,
+    "nombre": "Raúl Jiménez",
+    "edad": 59,
+    "ciudad": "Juárez",
+    "pais": "México",
+    "preferencias": [
+      "Viajes",
+      "Libros",
+      "Hogar"
+    ],
+    "puntos_lealtad": 165,
+    "gastos_mensuales": 9858.72,
+    "ingresos": 16157.61
+  },
+  {
+    "id_cliente": 214,
+    "nombre": "Sergio Castillo",
+    "edad": 70,
+    "ciudad": "Saltillo",
+    "pais": "mex",
+    "preferencias": [
+      "Moda",
+      "Libros",
+      "Hogar"
+    ],
+    "puntos_lealtad": 760,
+    "gastos_mensuales": 2765.54,
+    "ingresos": 15895.44
+  },
+  {
+    "id_cliente": 215,
+    "nombre": "Letizia García",
+    "edad": 18,
+    "ciudad": "Juárez",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1979,
+    "gastos_mensuales": 11794.87,
+    "ingresos": 20001.77
+  },
+  {
+    "id_cliente": 216,
+    "nombre": "Miguel Hernández",
+    "edad": 59,
+    "ciudad": "Aguascalientes",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Moda"
+    ],
+    "puntos_lealtad": 558,
+    "gastos_mensuales": 4181.79,
+    "ingresos": 15579.26
+  },
+  {
+    "id_cliente": 217,
+    "nombre": "Letizia Castro",
+    "edad": 63,
+    "ciudad": "Mérida",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza",
+      "Viajes",
+      "Libros"
+    ],
+    "puntos_lealtad": 2466,
+    "gastos_mensuales": 2588.83,
+    "ingresos": 13507.79
+  },
+  {
+    "id_cliente": 218,
+    "nombre": "Luis Jiménez",
+    "edad": 65,
+    "ciudad": "Oaxaca",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Hogar"
+    ],
+    "puntos_lealtad": 3456,
+    "gastos_mensuales": 3254.24,
+    "ingresos": 6990.63
+  },
+  {
+    "id_cliente": 219,
+    "nombre": "Andrea Juárez",
+    "edad": 68,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Viajes",
+      "Hogar"
+    ],
+    "puntos_lealtad": 4376,
+    "gastos_mensuales": 9332.83,
+    "ingresos": 20177.27
+  },
+  {
+    "id_cliente": 220,
+    "nombre": "Jorge Martínez",
+    "edad": 54,
+    "ciudad": "Veracruz",
+    "pais": "México",
+    "preferencias": [
+      "Moda",
+      "Belleza",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 1397,
+    "gastos_mensuales": 1491.69,
+    "ingresos": 10611.13
+  },
+  {
+    "id_cliente": 221,
+    "nombre": "Eduardo Reyes",
+    "edad": 23,
+    "ciudad": "Cancún",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Viajes"
+    ],
+    "puntos_lealtad": 505,
+    "gastos_mensuales": 2101.89,
+    "ingresos": 6772.11
+  },
+  {
+    "id_cliente": 222,
+    "nombre": "Roberto Jiménez",
+    "edad": 61,
+    "ciudad": "Mérida",
+    "pais": "Mex",
+    "preferencias": [
+      "Electrónica",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3293,
+    "gastos_mensuales": 5452.76,
+    "ingresos": 14783.61
+  },
+  {
+    "id_cliente": 223,
+    "nombre": "Francisco Moreno",
+    "edad": 22,
+    "ciudad": "Veracruz",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes",
+      "Hogar"
+    ],
+    "puntos_lealtad": 615,
+    "gastos_mensuales": 7277.09,
+    "ingresos": 9865.86
+  },
+  {
+    "id_cliente": 224,
+    "nombre": "Sonia Aguilar",
+    "edad": 64,
+    "ciudad": "Saltillo",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes",
+      "Libros"
+    ],
+    "puntos_lealtad": 3183,
+    "gastos_mensuales": 5379.31,
+    "ingresos": 17375.95
+  },
+  {
+    "id_cliente": 225,
+    "nombre": "Arturo Álvarez",
+    "edad": 26,
+    "ciudad": "Aguascalientes",
+    "pais": "Mex",
+    "preferencias": [
+      "Música",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1512,
+    "gastos_mensuales": 1698.8,
+    "ingresos": 16232.68
+  },
+  {
+    "id_cliente": 226,
+    "nombre": "Miguel Ramos",
+    "edad": 19,
+    "ciudad": "Mérida",
+    "pais": "mexico",
+    "preferencias": [
+      "Música",
+      "Tecnología",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4510,
+    "gastos_mensuales": 8952.01,
+    "ingresos": 13846.98
+  },
+  {
+    "id_cliente": 227,
+    "nombre": "Francisco Gómez",
+    "edad": 35,
+    "ciudad": "Tijuana",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología",
+      "Música"
+    ],
+    "puntos_lealtad": 313,
+    "gastos_mensuales": 10021.64,
+    "ingresos": 15239.3
+  },
+  {
+    "id_cliente": 228,
+    "nombre": "Alejandro Jiménez",
+    "edad": 56,
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "preferencias": [
+      "Música",
+      "Deportes",
+      "Hogar"
+    ],
+    "puntos_lealtad": 412,
+    "gastos_mensuales": 3108.11,
+    "ingresos": 6419.77
+  },
+  {
+    "id_cliente": 229,
+    "nombre": "Sonia Rodríguez",
+    "edad": 26,
+    "ciudad": "Cancún",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes",
+      "Hogar"
+    ],
+    "puntos_lealtad": 1968,
+    "gastos_mensuales": 6845.31,
+    "ingresos": 18652.32
+  },
+  {
+    "id_cliente": 230,
+    "nombre": "Ricardo Díaz",
+    "edad": 32,
+    "ciudad": "Saltillo",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Moda",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 2304,
+    "gastos_mensuales": 3453.33,
+    "ingresos": 16844.69
+  },
+  {
+    "id_cliente": 231,
+    "nombre": "Letizia Sánchez",
+    "edad": 58,
+    "ciudad": "Saltillo",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 434,
+    "gastos_mensuales": 11423.43,
+    "ingresos": 24859.71
+  },
+  {
+    "id_cliente": 232,
+    "nombre": "Luis Ramírez",
+    "edad": 42,
+    "ciudad": "Toluca",
+    "pais": "mexico",
+    "preferencias": [
+      "Música",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 2024,
+    "gastos_mensuales": 4369.83,
+    "ingresos": 11782.05
+  },
+  {
+    "id_cliente": 233,
+    "nombre": "Laura Vargas",
+    "edad": 21,
+    "ciudad": "Veracruz",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 3462,
+    "gastos_mensuales": 10404.46,
+    "ingresos": 14281.03
+  },
+  {
+    "id_cliente": 234,
+    "nombre": "Gabriela López",
+    "edad": 46,
+    "ciudad": "Aguascalientes",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología",
+      "Electrónica",
+      "Música"
+    ],
+    "puntos_lealtad": 4437,
+    "gastos_mensuales": 3520.02,
+    "ingresos": 8163.4
+  },
+  {
+    "id_cliente": 235,
+    "nombre": "Alejandro Juárez",
+    "edad": 22,
+    "ciudad": "Tijuana",
+    "pais": "México",
+    "preferencias": [
+      "Hogar",
+      "Deportes",
+      "Libros"
+    ],
+    "puntos_lealtad": 3977,
+    "gastos_mensuales": 5024.28,
+    "ingresos": 14888.88
+  },
+  {
+    "id_cliente": 236,
+    "nombre": "Ana Vargas",
+    "edad": 30,
+    "ciudad": "Monterrey",
+    "pais": "mexico",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 2037,
+    "gastos_mensuales": 4195.71,
+    "ingresos": 18012.63
+  },
+  {
+    "id_cliente": 237,
+    "nombre": "Sonia Ramírez",
+    "edad": 42,
+    "ciudad": "Culiacán",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Hogar",
+      "Música"
+    ],
+    "puntos_lealtad": 2576,
+    "gastos_mensuales": 11049.42,
+    "ingresos": 20226.45
+  },
+  {
+    "id_cliente": 238,
+    "nombre": "Diana Salazar",
+    "edad": 48,
+    "ciudad": "San Luis Potosí",
+    "pais": "México",
+    "preferencias": [
+      "Moda",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3086,
+    "gastos_mensuales": 10687.49,
+    "ingresos": 18745.54
+  },
+  {
+    "id_cliente": 239,
+    "nombre": "Luis Torres",
+    "edad": 34,
+    "ciudad": "Veracruz",
+    "pais": "mexico",
+    "preferencias": [
+      "Música",
+      "Deportes"
+    ],
+    "puntos_lealtad": 2468,
+    "gastos_mensuales": 7100.28,
+    "ingresos": 11976.84
+  },
+  {
+    "id_cliente": 240,
+    "nombre": "Monica García",
+    "edad": 49,
+    "ciudad": "Veracruz",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 2158,
+    "gastos_mensuales": 4494.49,
+    "ingresos": 11432.41
+  },
+  {
+    "id_cliente": 241,
+    "nombre": "María Gómez",
+    "edad": 64,
+    "ciudad": "Veracruz",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1557,
+    "gastos_mensuales": 2684.22,
+    "ingresos": 15018.9
+  },
+  {
+    "id_cliente": 242,
+    "nombre": "Monica Ortiz",
+    "edad": 21,
+    "ciudad": "Querétaro",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Tecnología",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1176,
+    "gastos_mensuales": 10197.57,
+    "ingresos": 13163.87
+  },
+  {
+    "id_cliente": 243,
+    "nombre": "Francisco Rodríguez",
+    "edad": 57,
+    "ciudad": "Oaxaca",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar",
+      "Belleza",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4046,
+    "gastos_mensuales": 902.38,
+    "ingresos": 9476.91
+  },
+  {
+    "id_cliente": 244,
+    "nombre": "Miguel Díaz",
+    "edad": 64,
+    "ciudad": "Juárez",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 190,
+    "gastos_mensuales": 6760.78,
+    "ingresos": 14108.18
+  },
+  {
+    "id_cliente": 245,
+    "nombre": "Guadalupe Martínez",
+    "edad": 57,
+    "ciudad": "Cancún",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Electrónica",
+      "Belleza"
+    ],
+    "puntos_lealtad": 2953,
+    "gastos_mensuales": 11082.15,
+    "ingresos": 19899.16
+  },
+  {
+    "id_cliente": 246,
+    "nombre": "Eduardo García",
+    "edad": 62,
+    "ciudad": "León",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Belleza"
+    ],
+    "puntos_lealtad": 710,
+    "gastos_mensuales": 4978.18,
+    "ingresos": 12256.54
+  },
+  {
+    "id_cliente": 247,
+    "nombre": "Alejandro Aguilar",
+    "edad": 18,
+    "ciudad": "Toluca",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes",
+      "Belleza",
+      "Música"
+    ],
+    "puntos_lealtad": 4144,
+    "gastos_mensuales": 5047.76,
+    "ingresos": 14232.88
+  },
+  {
+    "id_cliente": 248,
+    "nombre": "Guadalupe Martínez",
+    "edad": 62,
+    "ciudad": "Chihuahua",
+    "pais": "mexico",
+    "preferencias": [
+      "Moda",
+      "Belleza"
+    ],
+    "puntos_lealtad": 2270,
+    "gastos_mensuales": 10821.66,
+    "ingresos": 24770.64
+  },
+  {
+    "id_cliente": 249,
+    "nombre": "Roberto Ruiz",
+    "edad": 60,
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 2626,
+    "gastos_mensuales": 8465.6,
+    "ingresos": 14110.45
+  },
+  {
+    "id_cliente": 250,
+    "nombre": "Fernando Chávez",
+    "edad": 43,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 1380,
+    "gastos_mensuales": 7374.8,
+    "ingresos": 19154.11
+  },
+  {
+    "id_cliente": 251,
+    "nombre": "Diana Moreno",
+    "edad": 64,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar",
+      "Música",
+      "Moda"
+    ],
+    "puntos_lealtad": 489,
+    "gastos_mensuales": 5099.08,
+    "ingresos": 16715.77
+  },
+  {
+    "id_cliente": 252,
+    "nombre": "Andrea Ramos",
+    "edad": 57,
+    "ciudad": "Oaxaca",
+    "pais": "mexico",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 2723,
+    "gastos_mensuales": 3400.01,
+    "ingresos": 6388.25
+  },
+  {
+    "id_cliente": 253,
+    "nombre": "Guadalupe Vázquez",
+    "edad": 53,
+    "ciudad": "Hermosillo",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 1571,
+    "gastos_mensuales": 9575.74,
+    "ingresos": 17432.89
+  },
+  {
+    "id_cliente": 254,
+    "nombre": "Guadalupe Moreno",
+    "edad": 22,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Música",
+      "Belleza"
+    ],
+    "puntos_lealtad": 1313,
+    "gastos_mensuales": 9448.27,
+    "ingresos": 15288.2
+  },
+  {
+    "id_cliente": 255,
+    "nombre": "Miguel Ramírez",
+    "edad": 46,
+    "ciudad": "Aguascalientes",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica",
+      "Música"
+    ],
+    "puntos_lealtad": 887,
+    "gastos_mensuales": 4346.8,
+    "ingresos": 7731.96
+  },
+  {
+    "id_cliente": 256,
+    "nombre": "Roberto Díaz",
+    "edad": 44,
+    "ciudad": "Monterrey",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 784,
+    "gastos_mensuales": 2898.79,
+    "ingresos": 10733.76
+  },
+  {
+    "id_cliente": 257,
+    "nombre": "Arturo Castillo",
+    "edad": 18,
+    "ciudad": "Mérida",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Belleza"
+    ],
+    "puntos_lealtad": 3226,
+    "gastos_mensuales": 7485.56,
+    "ingresos": 19683.26
+  },
+  {
+    "id_cliente": 258,
+    "nombre": "Eduardo Díaz",
+    "edad": 28,
+    "ciudad": "Hermosillo",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 1187,
+    "gastos_mensuales": 10938.32,
+    "ingresos": 25654.57
+  },
+  {
+    "id_cliente": 259,
+    "nombre": "Daniel Hernández",
+    "edad": 44,
+    "ciudad": "Mérida",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros",
+      "Cocina"
+    ],
+    "puntos_lealtad": 680,
+    "gastos_mensuales": 6322.99,
+    "ingresos": 9145.46
+  },
+  {
+    "id_cliente": 260,
+    "nombre": "Andrea Martínez",
+    "edad": 47,
+    "ciudad": "Monterrey",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Hogar"
+    ],
+    "puntos_lealtad": 2545,
+    "gastos_mensuales": 8874.07,
+    "ingresos": 17319.5
+  },
+  {
+    "id_cliente": 261,
+    "nombre": "Diana Juárez",
+    "edad": 39,
+    "ciudad": "Culiacán",
+    "pais": "mex",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 3577,
+    "gastos_mensuales": 4520.83,
+    "ingresos": 14583.33
+  },
+  {
+    "id_cliente": 262,
+    "nombre": "Ana Reyes",
+    "edad": 38,
+    "ciudad": "Toluca",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Electrónica",
+      "Libros"
+    ],
+    "puntos_lealtad": 2664,
+    "gastos_mensuales": 4391.45,
+    "ingresos": 18706.08
+  },
+  {
+    "id_cliente": 263,
+    "nombre": "Diana Castillo",
+    "edad": 41,
+    "ciudad": "Monterrey",
+    "pais": "México",
+    "preferencias": [
+      "Viajes",
+      "Hogar"
+    ],
+    "puntos_lealtad": 4901,
+    "gastos_mensuales": 4449.93,
+    "ingresos": 10093.83
+  },
+  {
+    "id_cliente": 264,
+    "nombre": "Fernando Martínez",
+    "edad": 46,
+    "ciudad": "Mérida",
+    "pais": "Mex",
+    "preferencias": [
+      "Electrónica",
+      "Tecnología",
+      "Deportes"
+    ],
+    "puntos_lealtad": 3401,
+    "gastos_mensuales": 11473.65,
+    "ingresos": 19474.74
+  },
+  {
+    "id_cliente": 265,
+    "nombre": "Fernando Morales",
+    "edad": 68,
+    "ciudad": "Hermosillo",
+    "pais": "Mex",
+    "preferencias": [
+      "Viajes",
+      "Electrónica",
+      "Libros"
+    ],
+    "puntos_lealtad": 3728,
+    "gastos_mensuales": 3510.64,
+    "ingresos": 14073.26
+  },
+  {
+    "id_cliente": 266,
+    "nombre": "Francisco Moreno",
+    "edad": 69,
+    "ciudad": "Veracruz",
+    "pais": "Mex",
+    "preferencias": [
+      "Viajes",
+      "Música",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 945,
+    "gastos_mensuales": 6888.83,
+    "ingresos": 19168.2
+  },
+  {
+    "id_cliente": 267,
+    "nombre": "Eduardo Aguilar",
+    "edad": 61,
+    "ciudad": "Hermosillo",
+    "pais": "mex",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 3576,
+    "gastos_mensuales": 2662.99,
+    "ingresos": 12627.8
+  },
+  {
+    "id_cliente": 268,
+    "nombre": "Raúl Díaz",
+    "edad": 53,
+    "ciudad": "Chihuahua",
+    "pais": "México",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 3701,
+    "gastos_mensuales": 1904.39,
+    "ingresos": 6790.4
+  },
+  {
+    "id_cliente": 269,
+    "nombre": "Jorge Gómez",
+    "edad": 40,
+    "ciudad": "Querétaro",
+    "pais": "mexico",
+    "preferencias": [
+      "Música",
+      "Viajes"
+    ],
+    "puntos_lealtad": 906,
+    "gastos_mensuales": 9450.23,
+    "ingresos": 19101.9
+  },
+  {
+    "id_cliente": 270,
+    "nombre": "Luis Vázquez",
+    "edad": 37,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Música",
+      "Belleza"
+    ],
+    "puntos_lealtad": 1744,
+    "gastos_mensuales": 2099.98,
+    "ingresos": 16328.77
+  },
+  {
+    "id_cliente": 271,
+    "nombre": "Laura Flores",
+    "edad": 22,
+    "ciudad": "Mérida",
+    "pais": "Mex",
+    "preferencias": [
+      "Viajes",
+      "Moda",
+      "Cocina"
+    ],
+    "puntos_lealtad": 992,
+    "gastos_mensuales": 1893.38,
+    "ingresos": 13279.3
+  },
+  {
+    "id_cliente": 272,
+    "nombre": "María Vargas",
+    "edad": 65,
+    "ciudad": "León",
+    "pais": "México",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 4571,
+    "gastos_mensuales": 8057.26,
+    "ingresos": 18860.07
+  },
+  {
+    "id_cliente": 273,
+    "nombre": "Guadalupe Rivera",
+    "edad": 43,
+    "ciudad": "Toluca",
+    "pais": "México",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 3590,
+    "gastos_mensuales": 7070.31,
+    "ingresos": 21530.32
+  },
+  {
+    "id_cliente": 274,
+    "nombre": "Miguel Moreno",
+    "edad": 31,
+    "ciudad": "Tijuana",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes",
+      "Hogar"
+    ],
+    "puntos_lealtad": 562,
+    "gastos_mensuales": 5835.24,
+    "ingresos": 13419.43
+  },
+  {
+    "id_cliente": 275,
+    "nombre": "Carlos Hernández",
+    "edad": 60,
+    "ciudad": "Morelia",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza",
+      "Tecnología",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4940,
+    "gastos_mensuales": 4896.88,
+    "ingresos": 9458.85
+  },
+  {
+    "id_cliente": 276,
+    "nombre": "Arturo Jiménez",
+    "edad": 57,
+    "ciudad": "Toluca",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Música"
+    ],
+    "puntos_lealtad": 4884,
+    "gastos_mensuales": 7374.45,
+    "ingresos": 13897.47
+  },
+  {
+    "id_cliente": 277,
+    "nombre": "Carlos Sánchez",
+    "edad": 41,
+    "ciudad": "Puebla",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 3476,
+    "gastos_mensuales": 4307.68,
+    "ingresos": 9409.13
+  },
+  {
+    "id_cliente": 278,
+    "nombre": "Fernando Vargas",
+    "edad": 59,
+    "ciudad": "Toluca",
+    "pais": "México",
+    "preferencias": [
+      "Electrónica",
+      "Música",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 4061,
+    "gastos_mensuales": 2880.44,
+    "ingresos": 13141.96
+  },
+  {
+    "id_cliente": 279,
+    "nombre": "Alejandro Juárez",
+    "edad": 40,
+    "ciudad": "Querétaro",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1168,
+    "gastos_mensuales": 4323.3,
+    "ingresos": 12186.31
+  },
+  {
+    "id_cliente": 280,
+    "nombre": "Patricia Morales",
+    "edad": 61,
+    "ciudad": "Morelia",
+    "pais": "mexico",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 3686,
+    "gastos_mensuales": 11594.89,
+    "ingresos": 20165.58
+  },
+  {
+    "id_cliente": 281,
+    "nombre": "Guadalupe Ramírez",
+    "edad": 20,
+    "ciudad": "Juárez",
+    "pais": "México",
+    "preferencias": [
+      "Electrónica",
+      "Belleza"
+    ],
+    "puntos_lealtad": 4454,
+    "gastos_mensuales": 7132.46,
+    "ingresos": 19478.91
+  },
+  {
+    "id_cliente": 282,
+    "nombre": "Patricia Álvarez",
+    "edad": 50,
+    "ciudad": "Monterrey",
+    "pais": "Mex",
+    "preferencias": [
+      "Electrónica",
+      "Viajes"
+    ],
+    "puntos_lealtad": 2244,
+    "gastos_mensuales": 7135.29,
+    "ingresos": 19178.41
+  },
+  {
+    "id_cliente": 283,
+    "nombre": "Ana Morales",
+    "edad": 24,
+    "ciudad": "León",
+    "pais": "mex",
+    "preferencias": [
+      "Moda",
+      "Tecnología",
+      "Deportes"
+    ],
+    "puntos_lealtad": 314,
+    "gastos_mensuales": 9312.05,
+    "ingresos": 17049.82
+  },
+  {
+    "id_cliente": 284,
+    "nombre": "Arturo Pérez",
+    "edad": 67,
+    "ciudad": "León",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Moda"
+    ],
+    "puntos_lealtad": 4866,
+    "gastos_mensuales": 10456.64,
+    "ingresos": 13587.42
+  },
+  {
+    "id_cliente": 285,
+    "nombre": "Monica Martínez",
+    "edad": 69,
+    "ciudad": "Ciudad de México",
+    "pais": "mex",
+    "preferencias": [
+      "Moda",
+      "Música",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4410,
+    "gastos_mensuales": 7700.89,
+    "ingresos": 19903.93
+  },
+  {
+    "id_cliente": 286,
+    "nombre": "Javier Ramírez",
+    "edad": 54,
+    "ciudad": "Juárez",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 1160,
+    "gastos_mensuales": 2685.83,
+    "ingresos": 17412.83
+  },
+  {
+    "id_cliente": 287,
+    "nombre": "Arturo Gómez",
+    "edad": 33,
+    "ciudad": "Puebla",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes",
+      "Libros"
+    ],
+    "puntos_lealtad": 2077,
+    "gastos_mensuales": 10510.93,
+    "ingresos": 14160.48
+  },
+  {
+    "id_cliente": 288,
+    "nombre": "Daniel Castillo",
+    "edad": 46,
+    "ciudad": "Guadalajara",
+    "pais": "Mex",
+    "preferencias": [
+      "Música",
+      "Viajes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 3350,
+    "gastos_mensuales": 7267.17,
+    "ingresos": 12760.49
+  },
+  {
+    "id_cliente": 289,
+    "nombre": "Miguel Juárez",
+    "edad": 67,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros",
+      "Moda",
+      "Viajes"
+    ],
+    "puntos_lealtad": 2984,
+    "gastos_mensuales": 11442.85,
+    "ingresos": 17697.61
+  },
+  {
+    "id_cliente": 290,
+    "nombre": "Monica Martínez",
+    "edad": 49,
+    "ciudad": "Juárez",
+    "pais": "mex",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 2373,
+    "gastos_mensuales": 5254.42,
+    "ingresos": 19840.09
+  },
+  {
+    "id_cliente": 291,
+    "nombre": "José Castro",
+    "edad": 61,
+    "ciudad": "Ciudad de México",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 865,
+    "gastos_mensuales": 7140.79,
+    "ingresos": 15450.18
+  },
+  {
+    "id_cliente": 292,
+    "nombre": "Laura Torres",
+    "edad": 45,
+    "ciudad": "Tijuana",
+    "pais": "México",
+    "preferencias": [
+      "Viajes",
+      "Deportes",
+      "Belleza"
+    ],
+    "puntos_lealtad": 2522,
+    "gastos_mensuales": 11209.65,
+    "ingresos": 15263.44
+  },
+  {
+    "id_cliente": 293,
+    "nombre": "Juan Vázquez",
+    "edad": 60,
+    "ciudad": "Toluca",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 3296,
+    "gastos_mensuales": 1845.41,
+    "ingresos": 8531.07
+  },
+  {
+    "id_cliente": 294,
+    "nombre": "Miguel Martínez",
+    "edad": 48,
+    "ciudad": "Guadalajara",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Hogar",
+      "Música"
+    ],
+    "puntos_lealtad": 4913,
+    "gastos_mensuales": 8141.43,
+    "ingresos": 19289.5
+  },
+  {
+    "id_cliente": 295,
+    "nombre": "Fernando Flores",
+    "edad": 70,
+    "ciudad": "Monterrey",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 1132,
+    "gastos_mensuales": 8415.81,
+    "ingresos": 10536.54
+  },
+  {
+    "id_cliente": 296,
+    "nombre": "Carlos Pérez",
+    "edad": 38,
+    "ciudad": "Aguascalientes",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza",
+      "Hogar"
+    ],
+    "puntos_lealtad": 1173,
+    "gastos_mensuales": 5090.38,
+    "ingresos": 16590.3
+  },
+  {
+    "id_cliente": 297,
+    "nombre": "Andrea Aguilar",
+    "edad": 28,
+    "ciudad": "Culiacán",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1795,
+    "gastos_mensuales": 1566.21,
+    "ingresos": 10889.0
+  },
+  {
+    "id_cliente": 298,
+    "nombre": "Carlos Gómez",
+    "edad": 66,
+    "ciudad": "Monterrey",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica",
+      "Música",
+      "Viajes"
+    ],
+    "puntos_lealtad": 2929,
+    "gastos_mensuales": 10431.58,
+    "ingresos": 13558.52
+  },
+  {
+    "id_cliente": 299,
+    "nombre": "Guadalupe Álvarez",
+    "edad": 56,
+    "ciudad": "Oaxaca",
+    "pais": "mex",
+    "preferencias": [
+      "Moda",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 269,
+    "gastos_mensuales": 3575.21,
+    "ingresos": 13955.28
+  },
+  {
+    "id_cliente": 300,
+    "nombre": "Alejandro Rivera",
+    "edad": 68,
+    "ciudad": "León",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros",
+      "Hogar",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3211,
+    "gastos_mensuales": 9175.85,
+    "ingresos": 15017.9
+  },
+  {
+    "id_cliente": 301,
+    "nombre": "Jorge Castro",
+    "edad": 18,
+    "ciudad": "Aguascalientes",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 1131,
+    "gastos_mensuales": 6395.32,
+    "ingresos": 16116.41
+  },
+  {
+    "id_cliente": 302,
+    "nombre": "Sonia Reyes",
+    "edad": 67,
+    "ciudad": "Guadalajara",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina",
+      "Música"
+    ],
+    "puntos_lealtad": 4861,
+    "gastos_mensuales": 4892.62,
+    "ingresos": 15770.87
+  },
+  {
+    "id_cliente": 303,
+    "nombre": "Alejandro Rivera",
+    "edad": 43,
+    "ciudad": "Cancún",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 4154,
+    "gastos_mensuales": 3736.48,
+    "ingresos": 6254.23
+  },
+  {
+    "id_cliente": 304,
+    "nombre": "Andrea Gómez",
+    "edad": 35,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Cocina"
+    ],
+    "puntos_lealtad": 697,
+    "gastos_mensuales": 1723.19,
+    "ingresos": 10698.53
+  },
+  {
+    "id_cliente": 305,
+    "nombre": "Monica Aguilar",
+    "edad": 61,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar",
+      "Electrónica",
+      "Moda"
+    ],
+    "puntos_lealtad": 3633,
+    "gastos_mensuales": 5176.19,
+    "ingresos": 15422.02
+  },
+  {
+    "id_cliente": 306,
+    "nombre": "Laura Mendoza",
+    "edad": 56,
+    "ciudad": "Ciudad de México",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar",
+      "Deportes",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1488,
+    "gastos_mensuales": 1765.58,
+    "ingresos": 9413.87
+  },
+  {
+    "id_cliente": 307,
+    "nombre": "María Reyes",
+    "edad": 40,
+    "ciudad": "Cancún",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 1417,
+    "gastos_mensuales": 8728.49,
+    "ingresos": 19847.98
+  },
+  {
+    "id_cliente": 308,
+    "nombre": "Sergio Torres",
+    "edad": 39,
+    "ciudad": "Saltillo",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica",
+      "Libros"
+    ],
+    "puntos_lealtad": 4341,
+    "gastos_mensuales": 9008.88,
+    "ingresos": 12543.62
+  },
+  {
+    "id_cliente": 309,
+    "nombre": "Juan Reyes",
+    "edad": 47,
+    "ciudad": "Cancún",
+    "pais": "mex",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 504,
+    "gastos_mensuales": 8778.02,
+    "ingresos": 18274.49
+  },
+  {
+    "id_cliente": 310,
+    "nombre": "Carlos Castro",
+    "edad": 54,
+    "ciudad": "Monterrey",
+    "pais": "México",
+    "preferencias": [
+      "Cocina",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4218,
+    "gastos_mensuales": 4918.1,
+    "ingresos": 10234.61
+  },
+  {
+    "id_cliente": 311,
+    "nombre": "Alejandro Reyes",
+    "edad": 41,
+    "ciudad": "Hermosillo",
+    "pais": "México",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 1516,
+    "gastos_mensuales": 10417.32,
+    "ingresos": 12577.06
+  },
+  {
+    "id_cliente": 312,
+    "nombre": "Gabriela Morales",
+    "edad": 32,
+    "ciudad": "San Luis Potosí",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3459,
+    "gastos_mensuales": 9794.89,
+    "ingresos": 21077.16
+  },
+  {
+    "id_cliente": 313,
+    "nombre": "Ricardo Castro",
+    "edad": 21,
+    "ciudad": "Toluca",
+    "pais": "México",
+    "preferencias": [
+      "Moda",
+      "Libros",
+      "Belleza"
+    ],
+    "puntos_lealtad": 4275,
+    "gastos_mensuales": 7201.2,
+    "ingresos": 10753.41
+  },
+  {
+    "id_cliente": 314,
+    "nombre": "Javier Ramos",
+    "edad": 37,
+    "ciudad": "San Luis Potosí",
+    "pais": "Mex",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 4580,
+    "gastos_mensuales": 1571.98,
+    "ingresos": 9618.2
+  },
+  {
+    "id_cliente": 315,
+    "nombre": "Javier Salazar",
+    "edad": 57,
+    "ciudad": "León",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Moda"
+    ],
+    "puntos_lealtad": 3066,
+    "gastos_mensuales": 3047.52,
+    "ingresos": 12377.01
+  },
+  {
+    "id_cliente": 316,
+    "nombre": "Miguel García",
+    "edad": 52,
+    "ciudad": "Aguascalientes",
+    "pais": "Mex",
+    "preferencias": [
+      "Viajes",
+      "Hogar",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 2794,
+    "gastos_mensuales": 2486.34,
+    "ingresos": 16607.51
+  },
+  {
+    "id_cliente": 317,
+    "nombre": "Carlos Martínez",
+    "edad": 51,
+    "ciudad": "León",
+    "pais": "mexico",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 4080,
+    "gastos_mensuales": 10308.87,
+    "ingresos": 21762.67
+  },
+  {
+    "id_cliente": 318,
+    "nombre": "Letizia García",
+    "edad": 51,
+    "ciudad": "Saltillo",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 3805,
+    "gastos_mensuales": 8770.51,
+    "ingresos": 11979.86
+  },
+  {
+    "id_cliente": 319,
+    "nombre": "Eduardo Ruiz",
+    "edad": 21,
+    "ciudad": "Saltillo",
+    "pais": "México",
+    "preferencias": [
+      "Belleza",
+      "Cocina",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1989,
+    "gastos_mensuales": 7936.82,
+    "ingresos": 15063.39
+  },
+  {
+    "id_cliente": 320,
+    "nombre": "Monica Salazar",
+    "edad": 38,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros",
+      "Moda"
+    ],
+    "puntos_lealtad": 2277,
+    "gastos_mensuales": 11171.67,
+    "ingresos": 18280.05
+  },
+  {
+    "id_cliente": 321,
+    "nombre": "Sonia Ruiz",
+    "edad": 24,
+    "ciudad": "Puebla",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 1396,
+    "gastos_mensuales": 11367.81,
+    "ingresos": 15137.26
+  },
+  {
+    "id_cliente": 322,
+    "nombre": "Sonia Martínez",
+    "edad": 46,
+    "ciudad": "Mérida",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Moda"
+    ],
+    "puntos_lealtad": 2220,
+    "gastos_mensuales": 5352.94,
+    "ingresos": 14319.96
+  },
+  {
+    "id_cliente": 323,
+    "nombre": "Monica Moreno",
+    "edad": 62,
+    "ciudad": "Oaxaca",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 1811,
+    "gastos_mensuales": 2565.29,
+    "ingresos": 13484.0
+  },
+  {
+    "id_cliente": 324,
+    "nombre": "David Díaz",
+    "edad": 21,
+    "ciudad": "Mérida",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica",
+      "Belleza"
+    ],
+    "puntos_lealtad": 1474,
+    "gastos_mensuales": 8764.96,
+    "ingresos": 23354.16
+  },
+  {
+    "id_cliente": 325,
+    "nombre": "Roberto García",
+    "edad": 24,
+    "ciudad": "Culiacán",
+    "pais": "Mex",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 1195,
+    "gastos_mensuales": 10371.53,
+    "ingresos": 19598.93
+  },
+  {
+    "id_cliente": 326,
+    "nombre": "Guadalupe Gómez",
+    "edad": 30,
+    "ciudad": "Hermosillo",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 738,
+    "gastos_mensuales": 1490.69,
+    "ingresos": 13643.17
+  },
+  {
+    "id_cliente": 327,
+    "nombre": "Sergio Aguilar",
+    "edad": 46,
+    "ciudad": "Puebla",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina",
+      "Libros",
+      "Belleza"
+    ],
+    "puntos_lealtad": 2766,
+    "gastos_mensuales": 1044.16,
+    "ingresos": 3882.3
+  },
+  {
+    "id_cliente": 328,
+    "nombre": "Letizia Ruiz",
+    "edad": 45,
+    "ciudad": "Hermosillo",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 291,
+    "gastos_mensuales": 11353.54,
+    "ingresos": 14011.83
+  },
+  {
+    "id_cliente": 329,
+    "nombre": "Sofía Hernández",
+    "edad": 46,
+    "ciudad": "Puebla",
+    "pais": "Mex",
+    "preferencias": [
+      "Música",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2063,
+    "gastos_mensuales": 4764.16,
+    "ingresos": 18572.11
+  },
+  {
+    "id_cliente": 330,
+    "nombre": "Juan Hernández",
+    "edad": 42,
+    "ciudad": "Puebla",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros",
+      "Viajes",
+      "Música"
+    ],
+    "puntos_lealtad": 1683,
+    "gastos_mensuales": 10687.12,
+    "ingresos": 18914.52
+  },
+  {
+    "id_cliente": 331,
+    "nombre": "Francisco Reyes",
+    "edad": 52,
+    "ciudad": "Morelia",
+    "pais": "mex",
+    "preferencias": [
+      "Tecnología",
+      "Hogar",
+      "Deportes"
+    ],
+    "puntos_lealtad": 4683,
+    "gastos_mensuales": 11881.32,
+    "ingresos": 24046.22
+  },
+  {
+    "id_cliente": 332,
+    "nombre": "Guadalupe Torres",
+    "edad": 69,
+    "ciudad": "Juárez",
+    "pais": "Mex",
+    "preferencias": [
+      "Moda",
+      "Música",
+      "Libros"
+    ],
+    "puntos_lealtad": 3914,
+    "gastos_mensuales": 2813.94,
+    "ingresos": 8959.35
+  },
+  {
+    "id_cliente": 333,
+    "nombre": "Sofía Álvarez",
+    "edad": 70,
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "preferencias": [
+      "Moda",
+      "Hogar",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4766,
+    "gastos_mensuales": 1921.5,
+    "ingresos": 12460.74
+  },
+  {
+    "id_cliente": 334,
+    "nombre": "Diana Salazar",
+    "edad": 62,
+    "ciudad": "Aguascalientes",
+    "pais": "Mex",
+    "preferencias": [
+      "Moda",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2930,
+    "gastos_mensuales": 2772.32,
+    "ingresos": 12475.07
+  },
+  {
+    "id_cliente": 335,
+    "nombre": "Patricia Álvarez",
+    "edad": 37,
+    "ciudad": "Toluca",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Electrónica",
+      "Hogar"
+    ],
+    "puntos_lealtad": 360,
+    "gastos_mensuales": 10171.0,
+    "ingresos": 22706.22
+  },
+  {
+    "id_cliente": 336,
+    "nombre": "Jorge Reyes",
+    "edad": 18,
+    "ciudad": "San Luis Potosí",
+    "pais": "México",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 1118,
+    "gastos_mensuales": 3405.38,
+    "ingresos": 8249.9
+  },
+  {
+    "id_cliente": 337,
+    "nombre": "Fernando Vargas",
+    "edad": 27,
+    "ciudad": "Monterrey",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica",
+      "Moda"
+    ],
+    "puntos_lealtad": 644,
+    "gastos_mensuales": 1467.03,
+    "ingresos": 5387.29
+  },
+  {
+    "id_cliente": 338,
+    "nombre": "María Salazar",
+    "edad": 45,
+    "ciudad": "Morelia",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Belleza"
+    ],
+    "puntos_lealtad": 1477,
+    "gastos_mensuales": 4569.48,
+    "ingresos": 10763.32
+  },
+  {
+    "id_cliente": 339,
+    "nombre": "David Ramírez",
+    "edad": 64,
+    "ciudad": "Mérida",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología",
+      "Moda",
+      "Hogar"
+    ],
+    "puntos_lealtad": 1505,
+    "gastos_mensuales": 8253.95,
+    "ingresos": 20841.86
+  },
+  {
+    "id_cliente": 340,
+    "nombre": "Diana Mendoza",
+    "edad": 32,
+    "ciudad": "Chihuahua",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes",
+      "Música",
+      "Cocina"
+    ],
+    "puntos_lealtad": 4114,
+    "gastos_mensuales": 2839.32,
+    "ingresos": 8976.14
+  },
+  {
+    "id_cliente": 341,
+    "nombre": "José Sánchez",
+    "edad": 58,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 3708,
+    "gastos_mensuales": 9147.85,
+    "ingresos": 14241.8
+  },
+  {
+    "id_cliente": 342,
+    "nombre": "Francisco Hernández",
+    "edad": 68,
+    "ciudad": "Monterrey",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 444,
+    "gastos_mensuales": 3148.46,
+    "ingresos": 14159.75
+  },
+  {
+    "id_cliente": 343,
+    "nombre": "Patricia Castro",
+    "edad": 42,
+    "ciudad": "Aguascalientes",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Música"
+    ],
+    "puntos_lealtad": 880,
+    "gastos_mensuales": 11653.94,
+    "ingresos": 25153.12
+  },
+  {
+    "id_cliente": 344,
+    "nombre": "Arturo Rodríguez",
+    "edad": 36,
+    "ciudad": "Querétaro",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Hogar"
+    ],
+    "puntos_lealtad": 2189,
+    "gastos_mensuales": 2621.75,
+    "ingresos": 5579.97
+  },
+  {
+    "id_cliente": 345,
+    "nombre": "María Salazar",
+    "edad": 22,
+    "ciudad": "Veracruz",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 2818,
+    "gastos_mensuales": 4628.25,
+    "ingresos": 18171.36
+  },
+  {
+    "id_cliente": 346,
+    "nombre": "Andrea Castro",
+    "edad": 45,
+    "ciudad": "Toluca",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina",
+      "Viajes",
+      "Deportes"
+    ],
+    "puntos_lealtad": 879,
+    "gastos_mensuales": 5630.82,
+    "ingresos": 16128.08
+  },
+  {
+    "id_cliente": 347,
+    "nombre": "Letizia Salazar",
+    "edad": 52,
+    "ciudad": "Juárez",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar",
+      "Cocina"
+    ],
+    "puntos_lealtad": 2486,
+    "gastos_mensuales": 5383.93,
+    "ingresos": 14587.39
+  },
+  {
+    "id_cliente": 348,
+    "nombre": "Monica Reyes",
+    "edad": 27,
+    "ciudad": "Ciudad de México",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 81,
+    "gastos_mensuales": 1355.92,
+    "ingresos": 10788.93
+  },
+  {
+    "id_cliente": 349,
+    "nombre": "Patricia Martínez",
+    "edad": 24,
+    "ciudad": "Querétaro",
+    "pais": "México",
+    "preferencias": [
+      "Belleza",
+      "Libros"
+    ],
+    "puntos_lealtad": 1449,
+    "gastos_mensuales": 10027.65,
+    "ingresos": 20153.83
+  },
+  {
+    "id_cliente": 350,
+    "nombre": "David Reyes",
+    "edad": 49,
+    "ciudad": "Juárez",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros",
+      "Belleza",
+      "Viajes"
+    ],
+    "puntos_lealtad": 4507,
+    "gastos_mensuales": 10250.21,
+    "ingresos": 16258.8
+  },
+  {
+    "id_cliente": 351,
+    "nombre": "Laura Rodríguez",
+    "edad": 34,
+    "ciudad": "Culiacán",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica",
+      "Moda"
+    ],
+    "puntos_lealtad": 2207,
+    "gastos_mensuales": 10717.52,
+    "ingresos": 17519.74
+  },
+  {
+    "id_cliente": 352,
+    "nombre": "Fernando Ortiz",
+    "edad": 24,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 4485,
+    "gastos_mensuales": 7119.56,
+    "ingresos": 11084.26
+  },
+  {
+    "id_cliente": 353,
+    "nombre": "Monica Díaz",
+    "edad": 44,
+    "ciudad": "Veracruz",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Hogar"
+    ],
+    "puntos_lealtad": 4741,
+    "gastos_mensuales": 7000.34,
+    "ingresos": 19930.7
+  },
+  {
+    "id_cliente": 354,
+    "nombre": "Arturo Moreno",
+    "edad": 20,
+    "ciudad": "Cancún",
+    "pais": "México",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 1035,
+    "gastos_mensuales": 4147.14,
+    "ingresos": 11279.6
+  },
+  {
+    "id_cliente": 355,
+    "nombre": "Luis Rodríguez",
+    "edad": 45,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1704,
+    "gastos_mensuales": 11688.25,
+    "ingresos": 24198.24
+  },
+  {
+    "id_cliente": 356,
+    "nombre": "Juan López",
+    "edad": 42,
+    "ciudad": "Veracruz",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica",
+      "Libros",
+      "Moda"
+    ],
+    "puntos_lealtad": 4572,
+    "gastos_mensuales": 11001.01,
+    "ingresos": 24885.27
+  },
+  {
+    "id_cliente": 357,
+    "nombre": "Diana Moreno",
+    "edad": 57,
+    "ciudad": "Chihuahua",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 971,
+    "gastos_mensuales": 5931.36,
+    "ingresos": 19286.42
+  },
+  {
+    "id_cliente": 358,
+    "nombre": "Carlos Vargas",
+    "edad": 24,
+    "ciudad": "Chihuahua",
+    "pais": "Mex",
+    "preferencias": [
+      "Electrónica",
+      "Cocina"
+    ],
+    "puntos_lealtad": 2393,
+    "gastos_mensuales": 7145.85,
+    "ingresos": 16720.65
+  },
+  {
+    "id_cliente": 359,
+    "nombre": "Andrea Reyes",
+    "edad": 20,
+    "ciudad": "Toluca",
+    "pais": "mex",
+    "preferencias": [
+      "Moda",
+      "Música",
+      "Libros"
+    ],
+    "puntos_lealtad": 3351,
+    "gastos_mensuales": 5090.09,
+    "ingresos": 13402.69
+  },
+  {
+    "id_cliente": 360,
+    "nombre": "Alejandro Castillo",
+    "edad": 39,
+    "ciudad": "León",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 3942,
+    "gastos_mensuales": 7616.94,
+    "ingresos": 18634.54
+  },
+  {
+    "id_cliente": 361,
+    "nombre": "Javier Hernández",
+    "edad": 49,
+    "ciudad": "Monterrey",
+    "pais": "México",
+    "preferencias": [
+      "Moda",
+      "Deportes"
+    ],
+    "puntos_lealtad": 1150,
+    "gastos_mensuales": 4584.1,
+    "ingresos": 16901.58
+  },
+  {
+    "id_cliente": 362,
+    "nombre": "Gabriela López",
+    "edad": 30,
+    "ciudad": "Culiacán",
+    "pais": "México",
+    "preferencias": [
+      "Viajes",
+      "Moda"
+    ],
+    "puntos_lealtad": 3385,
+    "gastos_mensuales": 3817.5,
+    "ingresos": 11235.55
+  },
+  {
+    "id_cliente": 363,
+    "nombre": "María López",
+    "edad": 37,
+    "ciudad": "Cancún",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Tecnología",
+      "Moda"
+    ],
+    "puntos_lealtad": 1161,
+    "gastos_mensuales": 9995.39,
+    "ingresos": 18693.9
+  },
+  {
+    "id_cliente": 364,
+    "nombre": "Monica Rodríguez",
+    "edad": 33,
+    "ciudad": "Ciudad de México",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Deportes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 464,
+    "gastos_mensuales": 2958.95,
+    "ingresos": 15787.04
+  },
+  {
+    "id_cliente": 365,
+    "nombre": "David Aguilar",
+    "edad": 25,
+    "ciudad": "Querétaro",
+    "pais": "México",
+    "preferencias": [
+      "Hogar",
+      "Libros"
+    ],
+    "puntos_lealtad": 3101,
+    "gastos_mensuales": 4925.54,
+    "ingresos": 12960.38
+  },
+  {
+    "id_cliente": 366,
+    "nombre": "Eduardo Álvarez",
+    "edad": 40,
+    "ciudad": "Aguascalientes",
+    "pais": "México",
+    "preferencias": [
+      "Cocina",
+      "Viajes"
+    ],
+    "puntos_lealtad": 2168,
+    "gastos_mensuales": 2788.94,
+    "ingresos": 16105.19
+  },
+  {
+    "id_cliente": 367,
+    "nombre": "Eduardo Ramos",
+    "edad": 31,
+    "ciudad": "León",
+    "pais": "México",
+    "preferencias": [
+      "Belleza",
+      "Libros",
+      "Deportes"
+    ],
+    "puntos_lealtad": 1743,
+    "gastos_mensuales": 5129.54,
+    "ingresos": 9247.34
+  },
+  {
+    "id_cliente": 368,
+    "nombre": "Sonia Ortiz",
+    "edad": 18,
+    "ciudad": "Morelia",
+    "pais": "México",
+    "preferencias": [
+      "Música",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 1468,
+    "gastos_mensuales": 1024.59,
+    "ingresos": 13168.54
+  },
+  {
+    "id_cliente": 369,
+    "nombre": "Fernando Moreno",
+    "edad": 59,
+    "ciudad": "Juárez",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Hogar",
+      "Libros"
+    ],
+    "puntos_lealtad": 3134,
+    "gastos_mensuales": 7613.45,
+    "ingresos": 21872.51
+  },
+  {
+    "id_cliente": 370,
+    "nombre": "Jorge Chávez",
+    "edad": 57,
+    "ciudad": "Hermosillo",
+    "pais": "Mex",
+    "preferencias": [
+      "Viajes",
+      "Libros"
+    ],
+    "puntos_lealtad": 110,
+    "gastos_mensuales": 3243.94,
+    "ingresos": 9171.83
+  },
+  {
+    "id_cliente": 371,
+    "nombre": "Juan Flores",
+    "edad": 35,
+    "ciudad": "San Luis Potosí",
+    "pais": "mex",
+    "preferencias": [
+      "Moda",
+      "Tecnología",
+      "Libros"
+    ],
+    "puntos_lealtad": 2189,
+    "gastos_mensuales": 4142.93,
+    "ingresos": 7548.29
+  },
+  {
+    "id_cliente": 372,
+    "nombre": "Alejandro Rivera",
+    "edad": 69,
+    "ciudad": "Oaxaca",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros",
+      "Hogar",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2668,
+    "gastos_mensuales": 6593.69,
+    "ingresos": 11717.62
+  },
+  {
+    "id_cliente": 373,
+    "nombre": "Daniel Castillo",
+    "edad": 42,
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "preferencias": [
+      "Electrónica",
+      "Deportes",
+      "Viajes"
+    ],
+    "puntos_lealtad": 2861,
+    "gastos_mensuales": 11971.65,
+    "ingresos": 17344.19
+  },
+  {
+    "id_cliente": 374,
+    "nombre": "Jorge Ramírez",
+    "edad": 28,
+    "ciudad": "Veracruz",
+    "pais": "México",
+    "preferencias": [
+      "Hogar",
+      "Tecnología",
+      "Viajes"
+    ],
+    "puntos_lealtad": 2456,
+    "gastos_mensuales": 10953.1,
+    "ingresos": 21687.39
+  },
+  {
+    "id_cliente": 375,
+    "nombre": "Diana Álvarez",
+    "edad": 66,
+    "ciudad": "Toluca",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 781,
+    "gastos_mensuales": 2232.97,
+    "ingresos": 7595.44
+  },
+  {
+    "id_cliente": 376,
+    "nombre": "Daniel Rivera",
+    "edad": 39,
+    "ciudad": "Aguascalientes",
+    "pais": "mex",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 4846,
+    "gastos_mensuales": 3301.27,
+    "ingresos": 16629.89
+  },
+  {
+    "id_cliente": 377,
+    "nombre": "Eduardo Ruiz",
+    "edad": 57,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Belleza"
+    ],
+    "puntos_lealtad": 1643,
+    "gastos_mensuales": 6070.01,
+    "ingresos": 19333.12
+  },
+  {
+    "id_cliente": 378,
+    "nombre": "Luis Gómez",
+    "edad": 30,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza",
+      "Música",
+      "Libros"
+    ],
+    "puntos_lealtad": 4714,
+    "gastos_mensuales": 5426.8,
+    "ingresos": 18747.84
+  },
+  {
+    "id_cliente": 379,
+    "nombre": "Juan Reyes",
+    "edad": 39,
+    "ciudad": "Toluca",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica",
+      "Moda"
+    ],
+    "puntos_lealtad": 525,
+    "gastos_mensuales": 10458.81,
+    "ingresos": 14803.45
+  },
+  {
+    "id_cliente": 380,
+    "nombre": "María Ruiz",
+    "edad": 66,
+    "ciudad": "Toluca",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 771,
+    "gastos_mensuales": 3863.51,
+    "ingresos": 15759.02
+  },
+  {
+    "id_cliente": 381,
+    "nombre": "Daniel Reyes",
+    "edad": 42,
+    "ciudad": "Querétaro",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 4422,
+    "gastos_mensuales": 5657.57,
+    "ingresos": 13239.9
+  },
+  {
+    "id_cliente": 382,
+    "nombre": "Sonia Chávez",
+    "edad": 51,
+    "ciudad": "Tijuana",
+    "pais": "Mex",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 83,
+    "gastos_mensuales": 11440.77,
+    "ingresos": 25036.85
+  },
+  {
+    "id_cliente": 383,
+    "nombre": "Jorge Ruiz",
+    "edad": 37,
+    "ciudad": "Toluca",
+    "pais": "Mex",
+    "preferencias": [
+      "Hogar",
+      "Cocina",
+      "Moda"
+    ],
+    "puntos_lealtad": 424,
+    "gastos_mensuales": 4295.43,
+    "ingresos": 7630.64
+  },
+  {
+    "id_cliente": 384,
+    "nombre": "José Morales",
+    "edad": 61,
+    "ciudad": "Puebla",
+    "pais": "mex",
+    "preferencias": [
+      "Libros",
+      "Viajes"
+    ],
+    "puntos_lealtad": 4065,
+    "gastos_mensuales": 8951.72,
+    "ingresos": 18704.53
+  },
+  {
+    "id_cliente": 385,
+    "nombre": "David Torres",
+    "edad": 32,
+    "ciudad": "León",
+    "pais": "México",
+    "preferencias": [
+      "Hogar",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1780,
+    "gastos_mensuales": 11418.54,
+    "ingresos": 25355.21
+  },
+  {
+    "id_cliente": 386,
+    "nombre": "Diana Rodríguez",
+    "edad": 42,
+    "ciudad": "Juárez",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes",
+      "Tecnología",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4915,
+    "gastos_mensuales": 2179.41,
+    "ingresos": 13423.84
+  },
+  {
+    "id_cliente": 387,
+    "nombre": "Fernando Pérez",
+    "edad": 44,
+    "ciudad": "Culiacán",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 1062,
+    "gastos_mensuales": 8119.96,
+    "ingresos": 10376.6
+  },
+  {
+    "id_cliente": 388,
+    "nombre": "Miguel Ramírez",
+    "edad": 44,
+    "ciudad": "Monterrey",
+    "pais": "mex",
+    "preferencias": [
+      "Libros",
+      "Viajes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1173,
+    "gastos_mensuales": 3101.54,
+    "ingresos": 14016.16
+  },
+  {
+    "id_cliente": 389,
+    "nombre": "Carlos Rivera",
+    "edad": 24,
+    "ciudad": "Morelia",
+    "pais": "México",
+    "preferencias": [
+      "Belleza",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 1686,
+    "gastos_mensuales": 8850.18,
+    "ingresos": 12380.73
+  },
+  {
+    "id_cliente": 390,
+    "nombre": "María Rodríguez",
+    "edad": 53,
+    "ciudad": "Morelia",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología",
+      "Hogar"
+    ],
+    "puntos_lealtad": 3987,
+    "gastos_mensuales": 4808.72,
+    "ingresos": 12135.55
+  },
+  {
+    "id_cliente": 391,
+    "nombre": "Carlos Chávez",
+    "edad": 54,
+    "ciudad": "Morelia",
+    "pais": "México",
+    "preferencias": [
+      "Hogar",
+      "Deportes"
+    ],
+    "puntos_lealtad": 787,
+    "gastos_mensuales": 942.79,
+    "ingresos": 4099.83
+  },
+  {
+    "id_cliente": 392,
+    "nombre": "Javier Hernández",
+    "edad": 47,
+    "ciudad": "Ciudad de México",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza",
+      "Cocina",
+      "Libros"
+    ],
+    "puntos_lealtad": 1481,
+    "gastos_mensuales": 8016.57,
+    "ingresos": 15954.34
+  },
+  {
+    "id_cliente": 393,
+    "nombre": "Daniel Salazar",
+    "edad": 25,
+    "ciudad": "Monterrey",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 129,
+    "gastos_mensuales": 4834.4,
+    "ingresos": 15632.36
+  },
+  {
+    "id_cliente": 394,
+    "nombre": "Andrea Hernández",
+    "edad": 64,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2857,
+    "gastos_mensuales": 4481.0,
+    "ingresos": 18109.86
+  },
+  {
+    "id_cliente": 395,
+    "nombre": "Sofía Chávez",
+    "edad": 42,
+    "ciudad": "Morelia",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 1416,
+    "gastos_mensuales": 5288.71,
+    "ingresos": 19798.74
+  },
+  {
+    "id_cliente": 396,
+    "nombre": "Arturo Sánchez",
+    "edad": 24,
+    "ciudad": "Saltillo",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4710,
+    "gastos_mensuales": 8597.1,
+    "ingresos": 11359.5
+  },
+  {
+    "id_cliente": 397,
+    "nombre": "Arturo Ortiz",
+    "edad": 64,
+    "ciudad": "Puebla",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Electrónica",
+      "Música"
+    ],
+    "puntos_lealtad": 4048,
+    "gastos_mensuales": 9526.64,
+    "ingresos": 19474.3
+  },
+  {
+    "id_cliente": 398,
+    "nombre": "Gabriela Flores",
+    "edad": 18,
+    "ciudad": "Cancún",
+    "pais": "México",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 2821,
+    "gastos_mensuales": 5735.7,
+    "ingresos": 8559.07
+  },
+  {
+    "id_cliente": 399,
+    "nombre": "Francisco Ortiz",
+    "edad": 61,
+    "ciudad": "Hermosillo",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología",
+      "Belleza",
+      "Música"
+    ],
+    "puntos_lealtad": 4623,
+    "gastos_mensuales": 8211.19,
+    "ingresos": 13442.69
+  },
+  {
+    "id_cliente": 400,
+    "nombre": "Patricia Juárez",
+    "edad": 28,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Cocina",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2676,
+    "gastos_mensuales": 6462.36,
+    "ingresos": 14563.12
+  },
+  {
+    "id_cliente": 401,
+    "nombre": "Guadalupe Álvarez",
+    "edad": 59,
+    "ciudad": "Hermosillo",
+    "pais": "mexico",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 1975,
+    "gastos_mensuales": 11665.62,
+    "ingresos": 14320.18
+  },
+  {
+    "id_cliente": 402,
+    "nombre": "Juan Juárez",
+    "edad": 49,
+    "ciudad": "Culiacán",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 1022,
+    "gastos_mensuales": 5774.92,
+    "ingresos": 15224.37
+  },
+  {
+    "id_cliente": 403,
+    "nombre": "Roberto Torres",
+    "edad": 70,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes",
+      "Belleza"
+    ],
+    "puntos_lealtad": 4214,
+    "gastos_mensuales": 5318.52,
+    "ingresos": 7784.34
+  },
+  {
+    "id_cliente": 404,
+    "nombre": "Guadalupe Juárez",
+    "edad": 47,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar",
+      "Viajes",
+      "Moda"
+    ],
+    "puntos_lealtad": 3026,
+    "gastos_mensuales": 4869.44,
+    "ingresos": 7575.02
+  },
+  {
+    "id_cliente": 405,
+    "nombre": "José Vázquez",
+    "edad": 58,
+    "ciudad": "Mérida",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes",
+      "Belleza",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 920,
+    "gastos_mensuales": 9304.38,
+    "ingresos": 14187.09
+  },
+  {
+    "id_cliente": 406,
+    "nombre": "Raúl Salazar",
+    "edad": 44,
+    "ciudad": "Monterrey",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1654,
+    "gastos_mensuales": 6315.13,
+    "ingresos": 18999.03
+  },
+  {
+    "id_cliente": 407,
+    "nombre": "Laura Chávez",
+    "edad": 68,
+    "ciudad": "Tijuana",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 932,
+    "gastos_mensuales": 11218.42,
+    "ingresos": 18326.07
+  },
+  {
+    "id_cliente": 408,
+    "nombre": "Ricardo Ruiz",
+    "edad": 50,
+    "ciudad": "Puebla",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Belleza"
+    ],
+    "puntos_lealtad": 85,
+    "gastos_mensuales": 9448.03,
+    "ingresos": 17304.59
+  },
+  {
+    "id_cliente": 409,
+    "nombre": "Jorge Ramos",
+    "edad": 29,
+    "ciudad": "Chihuahua",
+    "pais": "México",
+    "preferencias": [
+      "Deportes",
+      "Tecnología",
+      "Música"
+    ],
+    "puntos_lealtad": 1101,
+    "gastos_mensuales": 10194.74,
+    "ingresos": 18472.86
+  },
+  {
+    "id_cliente": 410,
+    "nombre": "José Díaz",
+    "edad": 42,
+    "ciudad": "Saltillo",
+    "pais": "México",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 2291,
+    "gastos_mensuales": 8164.24,
+    "ingresos": 18044.33
+  },
+  {
+    "id_cliente": 411,
+    "nombre": "Daniel Mendoza",
+    "edad": 62,
+    "ciudad": "Cancún",
+    "pais": "mex",
+    "preferencias": [
+      "Moda",
+      "Libros"
+    ],
+    "puntos_lealtad": 4537,
+    "gastos_mensuales": 5871.87,
+    "ingresos": 9605.7
+  },
+  {
+    "id_cliente": 412,
+    "nombre": "Javier Ortiz",
+    "edad": 40,
+    "ciudad": "Puebla",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología",
+      "Hogar"
+    ],
+    "puntos_lealtad": 4177,
+    "gastos_mensuales": 3049.96,
+    "ingresos": 13164.14
+  },
+  {
+    "id_cliente": 413,
+    "nombre": "Ricardo Moreno",
+    "edad": 44,
+    "ciudad": "Veracruz",
+    "pais": "mex",
+    "preferencias": [
+      "Moda",
+      "Belleza",
+      "Cocina"
+    ],
+    "puntos_lealtad": 3510,
+    "gastos_mensuales": 7097.54,
+    "ingresos": 16674.02
+  },
+  {
+    "id_cliente": 414,
+    "nombre": "Alejandro Ortiz",
+    "edad": 21,
+    "ciudad": "Tijuana",
+    "pais": "mex",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 1368,
+    "gastos_mensuales": 1992.47,
+    "ingresos": 8943.78
+  },
+  {
+    "id_cliente": 415,
+    "nombre": "Javier Martínez",
+    "edad": 66,
+    "ciudad": "Veracruz",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2988,
+    "gastos_mensuales": 10201.08,
+    "ingresos": 21178.81
+  },
+  {
+    "id_cliente": 416,
+    "nombre": "Roberto Castillo",
+    "edad": 33,
+    "ciudad": "Cancún",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 434,
+    "gastos_mensuales": 10486.22,
+    "ingresos": 22137.59
+  },
+  {
+    "id_cliente": 417,
+    "nombre": "José Álvarez",
+    "edad": 21,
+    "ciudad": "Querétaro",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1713,
+    "gastos_mensuales": 11515.06,
+    "ingresos": 26200.76
+  },
+  {
+    "id_cliente": 418,
+    "nombre": "Andrea Martínez",
+    "edad": 67,
+    "ciudad": "Tijuana",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes",
+      "Hogar",
+      "Moda"
+    ],
+    "puntos_lealtad": 3726,
+    "gastos_mensuales": 9257.21,
+    "ingresos": 18363.21
+  },
+  {
+    "id_cliente": 419,
+    "nombre": "Jorge Pérez",
+    "edad": 42,
+    "ciudad": "Ciudad de México",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 2336,
+    "gastos_mensuales": 2894.14,
+    "ingresos": 7153.48
+  },
+  {
+    "id_cliente": 420,
+    "nombre": "José Jiménez",
+    "edad": 63,
+    "ciudad": "Puebla",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros",
+      "Electrónica",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 1309,
+    "gastos_mensuales": 7340.64,
+    "ingresos": 12655.85
+  },
+  {
+    "id_cliente": 421,
+    "nombre": "Monica Ortiz",
+    "edad": 37,
+    "ciudad": "Morelia",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Deportes"
+    ],
+    "puntos_lealtad": 647,
+    "gastos_mensuales": 9465.0,
+    "ingresos": 19594.77
+  },
+  {
+    "id_cliente": 422,
+    "nombre": "Diana Díaz",
+    "edad": 28,
+    "ciudad": "Saltillo",
+    "pais": "mexico",
+    "preferencias": [
+      "Moda",
+      "Tecnología",
+      "Hogar"
+    ],
+    "puntos_lealtad": 803,
+    "gastos_mensuales": 11518.26,
+    "ingresos": 20286.14
+  },
+  {
+    "id_cliente": 423,
+    "nombre": "Javier Martínez",
+    "edad": 66,
+    "ciudad": "Oaxaca",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar",
+      "Cocina"
+    ],
+    "puntos_lealtad": 4648,
+    "gastos_mensuales": 8229.35,
+    "ingresos": 14533.21
+  },
+  {
+    "id_cliente": 424,
+    "nombre": "Andrea Vargas",
+    "edad": 57,
+    "ciudad": "León",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes",
+      "Belleza",
+      "Moda"
+    ],
+    "puntos_lealtad": 2679,
+    "gastos_mensuales": 5791.47,
+    "ingresos": 19549.92
+  },
+  {
+    "id_cliente": 425,
+    "nombre": "Miguel Vargas",
+    "edad": 51,
+    "ciudad": "Aguascalientes",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza",
+      "Música"
+    ],
+    "puntos_lealtad": 4037,
+    "gastos_mensuales": 3673.81,
+    "ingresos": 15085.49
+  },
+  {
+    "id_cliente": 426,
+    "nombre": "Jorge López",
+    "edad": 24,
+    "ciudad": "Toluca",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 586,
+    "gastos_mensuales": 10860.75,
+    "ingresos": 15363.41
+  },
+  {
+    "id_cliente": 427,
+    "nombre": "Carlos Martínez",
+    "edad": 52,
+    "ciudad": "Saltillo",
+    "pais": "Mex",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 1309,
+    "gastos_mensuales": 10487.45,
+    "ingresos": 18002.17
+  },
+  {
+    "id_cliente": 428,
+    "nombre": "Juan Rodríguez",
+    "edad": 29,
+    "ciudad": "Juárez",
+    "pais": "Mex",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 4760,
+    "gastos_mensuales": 8828.92,
+    "ingresos": 11321.44
+  },
+  {
+    "id_cliente": 429,
+    "nombre": "David Morales",
+    "edad": 38,
+    "ciudad": "Querétaro",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 1019,
+    "gastos_mensuales": 5365.49,
+    "ingresos": 13230.12
+  },
+  {
+    "id_cliente": 430,
+    "nombre": "Letizia Díaz",
+    "edad": 24,
+    "ciudad": "Mérida",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes",
+      "Belleza",
+      "Cocina"
+    ],
+    "puntos_lealtad": 758,
+    "gastos_mensuales": 8649.88,
+    "ingresos": 11593.54
+  },
+  {
+    "id_cliente": 431,
+    "nombre": "Patricia Sánchez",
+    "edad": 52,
+    "ciudad": "León",
+    "pais": "México",
+    "preferencias": [
+      "Viajes",
+      "Música"
+    ],
+    "puntos_lealtad": 3253,
+    "gastos_mensuales": 5225.27,
+    "ingresos": 15814.67
+  },
+  {
+    "id_cliente": 432,
+    "nombre": "Diana Juárez",
+    "edad": 64,
+    "ciudad": "Aguascalientes",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros",
+      "Electrónica",
+      "Cocina"
+    ],
+    "puntos_lealtad": 4584,
+    "gastos_mensuales": 8385.64,
+    "ingresos": 22269.84
+  },
+  {
+    "id_cliente": 433,
+    "nombre": "Roberto Álvarez",
+    "edad": 23,
+    "ciudad": "Mérida",
+    "pais": "México",
+    "preferencias": [
+      "Electrónica",
+      "Belleza",
+      "Deportes"
+    ],
+    "puntos_lealtad": 2866,
+    "gastos_mensuales": 856.33,
+    "ingresos": 10612.84
+  },
+  {
+    "id_cliente": 434,
+    "nombre": "Luis Sánchez",
+    "edad": 29,
+    "ciudad": "León",
+    "pais": "mex",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 1641,
+    "gastos_mensuales": 10943.03,
+    "ingresos": 24012.0
+  },
+  {
+    "id_cliente": 435,
+    "nombre": "Alejandro Juárez",
+    "edad": 66,
+    "ciudad": "Veracruz",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4552,
+    "gastos_mensuales": 8314.95,
+    "ingresos": 17689.75
+  },
+  {
+    "id_cliente": 436,
+    "nombre": "Ana Salazar",
+    "edad": 55,
+    "ciudad": "Morelia",
+    "pais": "mex",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 2975,
+    "gastos_mensuales": 8322.87,
+    "ingresos": 13581.81
+  },
+  {
+    "id_cliente": 437,
+    "nombre": "Sergio Martínez",
+    "edad": 38,
+    "ciudad": "Morelia",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 2739,
+    "gastos_mensuales": 1920.5,
+    "ingresos": 11974.21
+  },
+  {
+    "id_cliente": 438,
+    "nombre": "María Torres",
+    "edad": 38,
+    "ciudad": "León",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Electrónica",
+      "Moda"
+    ],
+    "puntos_lealtad": 3622,
+    "gastos_mensuales": 9846.24,
+    "ingresos": 24308.81
+  },
+  {
+    "id_cliente": 439,
+    "nombre": "Patricia Jiménez",
+    "edad": 46,
+    "ciudad": "Aguascalientes",
+    "pais": "mex",
+    "preferencias": [
+      "Moda",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4039,
+    "gastos_mensuales": 8411.3,
+    "ingresos": 14721.62
+  },
+  {
+    "id_cliente": 440,
+    "nombre": "Luis Castro",
+    "edad": 52,
+    "ciudad": "Tijuana",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza",
+      "Electrónica",
+      "Cocina"
+    ],
+    "puntos_lealtad": 676,
+    "gastos_mensuales": 10228.08,
+    "ingresos": 23391.36
+  },
+  {
+    "id_cliente": 441,
+    "nombre": "Sonia Ruiz",
+    "edad": 31,
+    "ciudad": "Ciudad de México",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza",
+      "Deportes",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 4502,
+    "gastos_mensuales": 9901.59,
+    "ingresos": 19427.3
+  },
+  {
+    "id_cliente": 442,
+    "nombre": "Eduardo Salazar",
+    "edad": 36,
+    "ciudad": "Puebla",
+    "pais": "mexico",
+    "preferencias": [
+      "Viajes",
+      "Electrónica",
+      "Moda"
+    ],
+    "puntos_lealtad": 4155,
+    "gastos_mensuales": 5195.98,
+    "ingresos": 18784.67
+  },
+  {
+    "id_cliente": 443,
+    "nombre": "Arturo Rivera",
+    "edad": 57,
+    "ciudad": "Toluca",
+    "pais": "México",
+    "preferencias": [
+      "Belleza",
+      "Música",
+      "Moda"
+    ],
+    "puntos_lealtad": 3705,
+    "gastos_mensuales": 6424.27,
+    "ingresos": 17039.09
+  },
+  {
+    "id_cliente": 444,
+    "nombre": "Arturo Gómez",
+    "edad": 65,
+    "ciudad": "Morelia",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 381,
+    "gastos_mensuales": 7143.2,
+    "ingresos": 16498.76
+  },
+  {
+    "id_cliente": 445,
+    "nombre": "Guadalupe Rodríguez",
+    "edad": 60,
+    "ciudad": "Tijuana",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 3229,
+    "gastos_mensuales": 3395.6,
+    "ingresos": 8832.24
+  },
+  {
+    "id_cliente": 446,
+    "nombre": "Carlos Moreno",
+    "edad": 51,
+    "ciudad": "Juárez",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes",
+      "Deportes"
+    ],
+    "puntos_lealtad": 4790,
+    "gastos_mensuales": 1246.93,
+    "ingresos": 11677.75
+  },
+  {
+    "id_cliente": 447,
+    "nombre": "Gabriela Castro",
+    "edad": 22,
+    "ciudad": "Cancún",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Electrónica",
+      "Música"
+    ],
+    "puntos_lealtad": 3132,
+    "gastos_mensuales": 8121.16,
+    "ingresos": 14870.02
+  },
+  {
+    "id_cliente": 448,
+    "nombre": "Francisco Reyes",
+    "edad": 68,
+    "ciudad": "Morelia",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 4161,
+    "gastos_mensuales": 5345.43,
+    "ingresos": 17969.51
+  },
+  {
+    "id_cliente": 449,
+    "nombre": "Gabriela Hernández",
+    "edad": 31,
+    "ciudad": "Puebla",
+    "pais": "México",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 1339,
+    "gastos_mensuales": 2654.79,
+    "ingresos": 5656.94
+  },
+  {
+    "id_cliente": 450,
+    "nombre": "José Salazar",
+    "edad": 25,
+    "ciudad": "Morelia",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Belleza"
+    ],
+    "puntos_lealtad": 3974,
+    "gastos_mensuales": 8204.43,
+    "ingresos": 15594.41
+  },
+  {
+    "id_cliente": 451,
+    "nombre": "Miguel García",
+    "edad": 20,
+    "ciudad": "Puebla",
+    "pais": "México",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 1153,
+    "gastos_mensuales": 2605.96,
+    "ingresos": 15439.7
+  },
+  {
+    "id_cliente": 452,
+    "nombre": "María Díaz",
+    "edad": 43,
+    "ciudad": "Oaxaca",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología",
+      "Deportes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2372,
+    "gastos_mensuales": 1426.21,
+    "ingresos": 6783.59
+  },
+  {
+    "id_cliente": 453,
+    "nombre": "Arturo Reyes",
+    "edad": 28,
+    "ciudad": "León",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 4972,
+    "gastos_mensuales": 5831.08,
+    "ingresos": 20737.17
+  },
+  {
+    "id_cliente": 454,
+    "nombre": "Ricardo Díaz",
+    "edad": 34,
+    "ciudad": "Toluca",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 3764,
+    "gastos_mensuales": 9989.08,
+    "ingresos": 14353.57
+  },
+  {
+    "id_cliente": 455,
+    "nombre": "Miguel Martínez",
+    "edad": 51,
+    "ciudad": "Cancún",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Belleza",
+      "Hogar"
+    ],
+    "puntos_lealtad": 1275,
+    "gastos_mensuales": 5035.97,
+    "ingresos": 8754.74
+  },
+  {
+    "id_cliente": 456,
+    "nombre": "Sergio Rivera",
+    "edad": 52,
+    "ciudad": "Cancún",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza",
+      "Electrónica",
+      "Viajes"
+    ],
+    "puntos_lealtad": 813,
+    "gastos_mensuales": 10898.01,
+    "ingresos": 20695.59
+  },
+  {
+    "id_cliente": 457,
+    "nombre": "Sonia Ortiz",
+    "edad": 59,
+    "ciudad": "Saltillo",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3084,
+    "gastos_mensuales": 10068.24,
+    "ingresos": 23728.84
+  },
+  {
+    "id_cliente": 458,
+    "nombre": "Patricia Rivera",
+    "edad": 67,
+    "ciudad": "Hermosillo",
+    "pais": "mex",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 4875,
+    "gastos_mensuales": 5604.31,
+    "ingresos": 19803.79
+  },
+  {
+    "id_cliente": 459,
+    "nombre": "Guadalupe Vargas",
+    "edad": 23,
+    "ciudad": "Mérida",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Belleza",
+      "Música"
+    ],
+    "puntos_lealtad": 2161,
+    "gastos_mensuales": 2299.49,
+    "ingresos": 10502.33
+  },
+  {
+    "id_cliente": 460,
+    "nombre": "Eduardo Díaz",
+    "edad": 25,
+    "ciudad": "Cancún",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 3122,
+    "gastos_mensuales": 8742.47,
+    "ingresos": 21004.96
+  },
+  {
+    "id_cliente": 461,
+    "nombre": "Gabriela Ruiz",
+    "edad": 34,
+    "ciudad": "Juárez",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar",
+      "Moda",
+      "Música"
+    ],
+    "puntos_lealtad": 4675,
+    "gastos_mensuales": 4857.42,
+    "ingresos": 8869.54
+  },
+  {
+    "id_cliente": 462,
+    "nombre": "Ana Morales",
+    "edad": 53,
+    "ciudad": "Veracruz",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Libros"
+    ],
+    "puntos_lealtad": 1514,
+    "gastos_mensuales": 11908.15,
+    "ingresos": 19075.05
+  },
+  {
+    "id_cliente": 463,
+    "nombre": "Eduardo Vázquez",
+    "edad": 67,
+    "ciudad": "Hermosillo",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1025,
+    "gastos_mensuales": 6218.11,
+    "ingresos": 21068.72
+  },
+  {
+    "id_cliente": 464,
+    "nombre": "Diana Flores",
+    "edad": 69,
+    "ciudad": "Veracruz",
+    "pais": "Mex",
+    "preferencias": [
+      "Hogar",
+      "Viajes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1366,
+    "gastos_mensuales": 1923.12,
+    "ingresos": 10531.59
+  },
+  {
+    "id_cliente": 465,
+    "nombre": "Andrea Morales",
+    "edad": 23,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes",
+      "Belleza"
+    ],
+    "puntos_lealtad": 1866,
+    "gastos_mensuales": 10020.46,
+    "ingresos": 18152.15
+  },
+  {
+    "id_cliente": 466,
+    "nombre": "David Mendoza",
+    "edad": 59,
+    "ciudad": "Cancún",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza",
+      "Deportes"
+    ],
+    "puntos_lealtad": 4944,
+    "gastos_mensuales": 8914.34,
+    "ingresos": 23013.24
+  },
+  {
+    "id_cliente": 467,
+    "nombre": "Ana Juárez",
+    "edad": 60,
+    "ciudad": "Cancún",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1645,
+    "gastos_mensuales": 7971.26,
+    "ingresos": 15677.9
+  },
+  {
+    "id_cliente": 468,
+    "nombre": "Andrea Sánchez",
+    "edad": 61,
+    "ciudad": "Ciudad de México",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 2009,
+    "gastos_mensuales": 6518.14,
+    "ingresos": 17597.99
+  },
+  {
+    "id_cliente": 469,
+    "nombre": "Francisco Ortiz",
+    "edad": 43,
+    "ciudad": "Hermosillo",
+    "pais": "México",
+    "preferencias": [
+      "Deportes",
+      "Electrónica",
+      "Belleza"
+    ],
+    "puntos_lealtad": 4291,
+    "gastos_mensuales": 11964.35,
+    "ingresos": 24100.1
+  },
+  {
+    "id_cliente": 470,
+    "nombre": "Raúl Chávez",
+    "edad": 53,
+    "ciudad": "Chihuahua",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 2896,
+    "gastos_mensuales": 11094.79,
+    "ingresos": 20239.49
+  },
+  {
+    "id_cliente": 471,
+    "nombre": "Miguel Hernández",
+    "edad": 29,
+    "ciudad": "Saltillo",
+    "pais": "Mex",
+    "preferencias": [
+      "Hogar",
+      "Cocina"
+    ],
+    "puntos_lealtad": 4626,
+    "gastos_mensuales": 5893.3,
+    "ingresos": 13144.73
+  },
+  {
+    "id_cliente": 472,
+    "nombre": "Diana Díaz",
+    "edad": 34,
+    "ciudad": "Veracruz",
+    "pais": "mex",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3677,
+    "gastos_mensuales": 4095.62,
+    "ingresos": 18406.82
+  },
+  {
+    "id_cliente": 473,
+    "nombre": "Sonia Jiménez",
+    "edad": 61,
+    "ciudad": "Culiacán",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina",
+      "Viajes"
+    ],
+    "puntos_lealtad": 3998,
+    "gastos_mensuales": 9423.63,
+    "ingresos": 21270.78
+  },
+  {
+    "id_cliente": 474,
+    "nombre": "Guadalupe Ortiz",
+    "edad": 62,
+    "ciudad": "León",
+    "pais": "mex",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 3428,
+    "gastos_mensuales": 1556.61,
+    "ingresos": 11794.21
+  },
+  {
+    "id_cliente": 475,
+    "nombre": "Guadalupe Ramírez",
+    "edad": 23,
+    "ciudad": "Hermosillo",
+    "pais": "mex",
+    "preferencias": [
+      "Tecnología",
+      "Cocina"
+    ],
+    "puntos_lealtad": 672,
+    "gastos_mensuales": 908.9,
+    "ingresos": 13727.2
+  },
+  {
+    "id_cliente": 476,
+    "nombre": "Sofía Sánchez",
+    "edad": 65,
+    "ciudad": "Tijuana",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica",
+      "Viajes",
+      "Moda"
+    ],
+    "puntos_lealtad": 1685,
+    "gastos_mensuales": 4759.62,
+    "ingresos": 18385.73
+  },
+  {
+    "id_cliente": 477,
+    "nombre": "Ana Chávez",
+    "edad": 33,
+    "ciudad": "Oaxaca",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 1327,
+    "gastos_mensuales": 10574.72,
+    "ingresos": 15262.84
+  },
+  {
+    "id_cliente": 478,
+    "nombre": "Ricardo Reyes",
+    "edad": 57,
+    "ciudad": "Querétaro",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 4000,
+    "gastos_mensuales": 11106.11,
+    "ingresos": 21891.67
+  },
+  {
+    "id_cliente": 479,
+    "nombre": "Sergio Ruiz",
+    "edad": 35,
+    "ciudad": "Morelia",
+    "pais": "México",
+    "preferencias": [
+      "Cocina",
+      "Moda"
+    ],
+    "puntos_lealtad": 4237,
+    "gastos_mensuales": 6314.21,
+    "ingresos": 21123.91
+  },
+  {
+    "id_cliente": 480,
+    "nombre": "Jorge Rivera",
+    "edad": 45,
+    "ciudad": "Morelia",
+    "pais": "Mex",
+    "preferencias": [
+      "Música",
+      "Hogar"
+    ],
+    "puntos_lealtad": 4166,
+    "gastos_mensuales": 9201.9,
+    "ingresos": 12869.1
+  },
+  {
+    "id_cliente": 481,
+    "nombre": "Jorge Jiménez",
+    "edad": 38,
+    "ciudad": "Querétaro",
+    "pais": "Mex",
+    "preferencias": [
+      "Música",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1776,
+    "gastos_mensuales": 5920.6,
+    "ingresos": 9485.39
+  },
+  {
+    "id_cliente": 482,
+    "nombre": "Sofía Sánchez",
+    "edad": 53,
+    "ciudad": "Juárez",
+    "pais": "México",
+    "preferencias": [
+      "Cocina",
+      "Belleza"
+    ],
+    "puntos_lealtad": 2256,
+    "gastos_mensuales": 4444.89,
+    "ingresos": 14411.01
+  },
+  {
+    "id_cliente": 483,
+    "nombre": "Ana Morales",
+    "edad": 62,
+    "ciudad": "Aguascalientes",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Moda"
+    ],
+    "puntos_lealtad": 3331,
+    "gastos_mensuales": 4898.35,
+    "ingresos": 13382.36
+  },
+  {
+    "id_cliente": 484,
+    "nombre": "Ricardo García",
+    "edad": 70,
+    "ciudad": "Monterrey",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1981,
+    "gastos_mensuales": 7199.79,
+    "ingresos": 21930.33
+  },
+  {
+    "id_cliente": 485,
+    "nombre": "Luis Reyes",
+    "edad": 69,
+    "ciudad": "Querétaro",
+    "pais": "México",
+    "preferencias": [
+      "Música",
+      "Cocina",
+      "Hogar"
+    ],
+    "puntos_lealtad": 3503,
+    "gastos_mensuales": 2433.45,
+    "ingresos": 16902.37
+  },
+  {
+    "id_cliente": 486,
+    "nombre": "Patricia Ramírez",
+    "edad": 34,
+    "ciudad": "Veracruz",
+    "pais": "Mex",
+    "preferencias": [
+      "Electrónica",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3313,
+    "gastos_mensuales": 6780.6,
+    "ingresos": 12885.05
+  },
+  {
+    "id_cliente": 487,
+    "nombre": "Patricia Chávez",
+    "edad": 58,
+    "ciudad": "Monterrey",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2791,
+    "gastos_mensuales": 1472.41,
+    "ingresos": 14052.04
+  },
+  {
+    "id_cliente": 488,
+    "nombre": "Sofía Vázquez",
+    "edad": 19,
+    "ciudad": "Saltillo",
+    "pais": "Mex",
+    "preferencias": [
+      "Moda",
+      "Cocina"
+    ],
+    "puntos_lealtad": 2926,
+    "gastos_mensuales": 7075.92,
+    "ingresos": 21189.9
+  },
+  {
+    "id_cliente": 489,
+    "nombre": "José Ortiz",
+    "edad": 50,
+    "ciudad": "Morelia",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Hogar",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 692,
+    "gastos_mensuales": 11768.98,
+    "ingresos": 17468.89
+  },
+  {
+    "id_cliente": 490,
+    "nombre": "Arturo Sánchez",
+    "edad": 58,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Libros"
+    ],
+    "puntos_lealtad": 4732,
+    "gastos_mensuales": 5994.02,
+    "ingresos": 20429.75
+  },
+  {
+    "id_cliente": 491,
+    "nombre": "José Aguilar",
+    "edad": 36,
+    "ciudad": "Juárez",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza",
+      "Cocina"
+    ],
+    "puntos_lealtad": 2272,
+    "gastos_mensuales": 2614.39,
+    "ingresos": 7581.22
+  },
+  {
+    "id_cliente": 492,
+    "nombre": "María Juárez",
+    "edad": 19,
+    "ciudad": "Puebla",
+    "pais": "México",
+    "preferencias": [
+      "Moda",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 2111,
+    "gastos_mensuales": 11613.89,
+    "ingresos": 18995.75
+  },
+  {
+    "id_cliente": 493,
+    "nombre": "Letizia Castro",
+    "edad": 48,
+    "ciudad": "Veracruz",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza",
+      "Hogar",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 265,
+    "gastos_mensuales": 5246.91,
+    "ingresos": 8489.11
+  },
+  {
+    "id_cliente": 494,
+    "nombre": "Juan Aguilar",
+    "edad": 42,
+    "ciudad": "Mérida",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología",
+      "Belleza"
+    ],
+    "puntos_lealtad": 2076,
+    "gastos_mensuales": 1964.0,
+    "ingresos": 11999.33
+  },
+  {
+    "id_cliente": 495,
+    "nombre": "Miguel Rodríguez",
+    "edad": 60,
+    "ciudad": "Aguascalientes",
+    "pais": "mex",
+    "preferencias": [
+      "Libros",
+      "Viajes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 3950,
+    "gastos_mensuales": 2270.3,
+    "ingresos": 15171.03
+  },
+  {
+    "id_cliente": 496,
+    "nombre": "Fernando Álvarez",
+    "edad": 29,
+    "ciudad": "Chihuahua",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Libros"
+    ],
+    "puntos_lealtad": 4670,
+    "gastos_mensuales": 6943.71,
+    "ingresos": 10700.2
+  },
+  {
+    "id_cliente": 497,
+    "nombre": "Roberto García",
+    "edad": 69,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Cocina"
+    ],
+    "puntos_lealtad": 2572,
+    "gastos_mensuales": 4268.21,
+    "ingresos": 10781.4
+  },
+  {
+    "id_cliente": 498,
+    "nombre": "Jorge Chávez",
+    "edad": 66,
+    "ciudad": "Puebla",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Libros"
+    ],
+    "puntos_lealtad": 2399,
+    "gastos_mensuales": 2544.04,
+    "ingresos": 4681.27
+  },
+  {
+    "id_cliente": 499,
+    "nombre": "Sonia Reyes",
+    "edad": 37,
+    "ciudad": "Querétaro",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Deportes"
+    ],
+    "puntos_lealtad": 2449,
+    "gastos_mensuales": 8503.02,
+    "ingresos": 16898.13
+  },
+  {
+    "id_cliente": 500,
+    "nombre": "Daniel Castillo",
+    "edad": 33,
+    "ciudad": "Toluca",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar",
+      "Deportes",
+      "Moda"
+    ],
+    "puntos_lealtad": 3149,
+    "gastos_mensuales": 2911.99,
+    "ingresos": 16380.1
+  },
+  {
+    "id_cliente": 501,
+    "nombre": "Jorge Ramos",
+    "edad": 69,
+    "ciudad": "Oaxaca",
+    "pais": "mex",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 2382,
+    "gastos_mensuales": 1687.15,
+    "ingresos": 11816.35
+  },
+  {
+    "id_cliente": 502,
+    "nombre": "Luis Ramírez",
+    "edad": 25,
+    "ciudad": "Culiacán",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Libros",
+      "Música"
+    ],
+    "puntos_lealtad": 2279,
+    "gastos_mensuales": 2905.61,
+    "ingresos": 5795.64
+  },
+  {
+    "id_cliente": 503,
+    "nombre": "Roberto Torres",
+    "edad": 29,
+    "ciudad": "Monterrey",
+    "pais": "mex",
+    "preferencias": [
+      "Cocina",
+      "Viajes",
+      "Hogar"
+    ],
+    "puntos_lealtad": 2255,
+    "gastos_mensuales": 4391.21,
+    "ingresos": 8369.15
+  },
+  {
+    "id_cliente": 504,
+    "nombre": "Luis Torres",
+    "edad": 49,
+    "ciudad": "Tijuana",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 3492,
+    "gastos_mensuales": 8943.6,
+    "ingresos": 13970.14
+  },
+  {
+    "id_cliente": 505,
+    "nombre": "José López",
+    "edad": 66,
+    "ciudad": "Puebla",
+    "pais": "Mex",
+    "preferencias": [
+      "Viajes",
+      "Moda"
+    ],
+    "puntos_lealtad": 2233,
+    "gastos_mensuales": 5993.27,
+    "ingresos": 18281.79
+  },
+  {
+    "id_cliente": 506,
+    "nombre": "Monica Hernández",
+    "edad": 70,
+    "ciudad": "Hermosillo",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 1049,
+    "gastos_mensuales": 6065.64,
+    "ingresos": 10564.14
+  },
+  {
+    "id_cliente": 507,
+    "nombre": "Ana Jiménez",
+    "edad": 65,
+    "ciudad": "Monterrey",
+    "pais": "México",
+    "preferencias": [
+      "Hogar",
+      "Música",
+      "Viajes"
+    ],
+    "puntos_lealtad": 3923,
+    "gastos_mensuales": 3568.22,
+    "ingresos": 18497.18
+  },
+  {
+    "id_cliente": 508,
+    "nombre": "Raúl Vargas",
+    "edad": 53,
+    "ciudad": "Cancún",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros",
+      "Moda"
+    ],
+    "puntos_lealtad": 2125,
+    "gastos_mensuales": 2576.45,
+    "ingresos": 14043.53
+  },
+  {
+    "id_cliente": 509,
+    "nombre": "Ricardo Martínez",
+    "edad": 25,
+    "ciudad": "León",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros",
+      "Hogar"
+    ],
+    "puntos_lealtad": 2708,
+    "gastos_mensuales": 4836.78,
+    "ingresos": 7513.92
+  },
+  {
+    "id_cliente": 510,
+    "nombre": "David Rivera",
+    "edad": 33,
+    "ciudad": "Querétaro",
+    "pais": "Mex",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4810,
+    "gastos_mensuales": 9697.17,
+    "ingresos": 19298.23
+  },
+  {
+    "id_cliente": 511,
+    "nombre": "Patricia López",
+    "edad": 61,
+    "ciudad": "Oaxaca",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes",
+      "Electrónica",
+      "Moda"
+    ],
+    "puntos_lealtad": 541,
+    "gastos_mensuales": 9432.93,
+    "ingresos": 14666.32
+  },
+  {
+    "id_cliente": 512,
+    "nombre": "Diana Pérez",
+    "edad": 26,
+    "ciudad": "Morelia",
+    "pais": "México",
+    "preferencias": [
+      "Moda"
+    ],
+    "puntos_lealtad": 2644,
+    "gastos_mensuales": 8019.24,
+    "ingresos": 19136.51
+  },
+  {
+    "id_cliente": 513,
+    "nombre": "Raúl Gómez",
+    "edad": 34,
+    "ciudad": "Ciudad de México",
+    "pais": "mexico",
+    "preferencias": [
+      "Moda",
+      "Viajes",
+      "Hogar"
+    ],
+    "puntos_lealtad": 3634,
+    "gastos_mensuales": 1039.15,
+    "ingresos": 7950.15
+  },
+  {
+    "id_cliente": 514,
+    "nombre": "Francisco Flores",
+    "edad": 64,
+    "ciudad": "Culiacán",
+    "pais": "mex",
+    "preferencias": [
+      "Libros",
+      "Tecnología",
+      "Viajes"
+    ],
+    "puntos_lealtad": 4954,
+    "gastos_mensuales": 2925.49,
+    "ingresos": 7351.64
+  },
+  {
+    "id_cliente": 515,
+    "nombre": "Roberto Vázquez",
+    "edad": 47,
+    "ciudad": "Querétaro",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica",
+      "Belleza",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1569,
+    "gastos_mensuales": 5833.1,
+    "ingresos": 18485.54
+  },
+  {
+    "id_cliente": 516,
+    "nombre": "Guadalupe Flores",
+    "edad": 64,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina"
+    ],
+    "puntos_lealtad": 1605,
+    "gastos_mensuales": 10396.49,
+    "ingresos": 22484.71
+  },
+  {
+    "id_cliente": 517,
+    "nombre": "Gabriela Flores",
+    "edad": 25,
+    "ciudad": "Monterrey",
+    "pais": "Mex",
+    "preferencias": [
+      "Viajes",
+      "Tecnología",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 408,
+    "gastos_mensuales": 7666.04,
+    "ingresos": 13859.84
+  },
+  {
+    "id_cliente": 518,
+    "nombre": "Patricia Martínez",
+    "edad": 24,
+    "ciudad": "Ciudad de México",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4063,
+    "gastos_mensuales": 10583.12,
+    "ingresos": 15210.15
+  },
+  {
+    "id_cliente": 519,
+    "nombre": "Juan Torres",
+    "edad": 31,
+    "ciudad": "Morelia",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina",
+      "Libros",
+      "Deportes"
+    ],
+    "puntos_lealtad": 3884,
+    "gastos_mensuales": 4903.17,
+    "ingresos": 14780.57
+  },
+  {
+    "id_cliente": 520,
+    "nombre": "Alejandro Chávez",
+    "edad": 57,
+    "ciudad": "Juárez",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes",
+      "Moda",
+      "Música"
+    ],
+    "puntos_lealtad": 626,
+    "gastos_mensuales": 10006.7,
+    "ingresos": 22331.94
+  },
+  {
+    "id_cliente": 521,
+    "nombre": "Raúl García",
+    "edad": 52,
+    "ciudad": "Hermosillo",
+    "pais": "México",
+    "preferencias": [
+      "Belleza",
+      "Hogar"
+    ],
+    "puntos_lealtad": 1632,
+    "gastos_mensuales": 11558.57,
+    "ingresos": 14821.12
+  },
+  {
+    "id_cliente": 522,
+    "nombre": "Eduardo Vázquez",
+    "edad": 61,
+    "ciudad": "Culiacán",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar",
+      "Electrónica",
+      "Música"
+    ],
+    "puntos_lealtad": 902,
+    "gastos_mensuales": 9156.41,
+    "ingresos": 21118.09
+  },
+  {
+    "id_cliente": 523,
+    "nombre": "Ricardo Sánchez",
+    "edad": 52,
+    "ciudad": "Oaxaca",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2936,
+    "gastos_mensuales": 6959.61,
+    "ingresos": 15520.62
+  },
+  {
+    "id_cliente": 524,
+    "nombre": "Gabriela Morales",
+    "edad": 70,
+    "ciudad": "San Luis Potosí",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología",
+      "Moda"
+    ],
+    "puntos_lealtad": 4663,
+    "gastos_mensuales": 10262.36,
+    "ingresos": 17622.82
+  },
+  {
+    "id_cliente": 525,
+    "nombre": "David Torres",
+    "edad": 64,
+    "ciudad": "Ciudad de México",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar",
+      "Música",
+      "Libros"
+    ],
+    "puntos_lealtad": 4930,
+    "gastos_mensuales": 4832.1,
+    "ingresos": 12713.35
+  },
+  {
+    "id_cliente": 526,
+    "nombre": "Miguel Ramírez",
+    "edad": 32,
+    "ciudad": "Tijuana",
+    "pais": "mex",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 227,
+    "gastos_mensuales": 2312.96,
+    "ingresos": 15887.18
+  },
+  {
+    "id_cliente": 527,
+    "nombre": "Luis Gómez",
+    "edad": 34,
+    "ciudad": "Aguascalientes",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Tecnología",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1958,
+    "gastos_mensuales": 1856.02,
+    "ingresos": 9840.83
+  },
+  {
+    "id_cliente": 528,
+    "nombre": "Ana Salazar",
+    "edad": 22,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros",
+      "Belleza"
+    ],
+    "puntos_lealtad": 1466,
+    "gastos_mensuales": 7189.46,
+    "ingresos": 16587.3
+  },
+  {
+    "id_cliente": 529,
+    "nombre": "Raúl Rivera",
+    "edad": 54,
+    "ciudad": "Hermosillo",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina",
+      "Belleza"
+    ],
+    "puntos_lealtad": 508,
+    "gastos_mensuales": 7466.59,
+    "ingresos": 13371.7
+  },
+  {
+    "id_cliente": 530,
+    "nombre": "Arturo Ramos",
+    "edad": 32,
+    "ciudad": "Oaxaca",
+    "pais": "Mex",
+    "preferencias": [
+      "Moda",
+      "Música"
+    ],
+    "puntos_lealtad": 3183,
+    "gastos_mensuales": 5465.04,
+    "ingresos": 18746.84
+  },
+  {
+    "id_cliente": 531,
+    "nombre": "Eduardo Gómez",
+    "edad": 38,
+    "ciudad": "Cancún",
+    "pais": "México",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 1304,
+    "gastos_mensuales": 6673.09,
+    "ingresos": 12824.21
+  },
+  {
+    "id_cliente": 532,
+    "nombre": "Eduardo Díaz",
+    "edad": 23,
+    "ciudad": "León",
+    "pais": "mexico",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 2423,
+    "gastos_mensuales": 11675.65,
+    "ingresos": 23462.57
+  },
+  {
+    "id_cliente": 533,
+    "nombre": "Raúl Rodríguez",
+    "edad": 53,
+    "ciudad": "Hermosillo",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica",
+      "Cocina"
+    ],
+    "puntos_lealtad": 746,
+    "gastos_mensuales": 4565.08,
+    "ingresos": 12751.19
+  },
+  {
+    "id_cliente": 534,
+    "nombre": "Luis Reyes",
+    "edad": 53,
+    "ciudad": "Tijuana",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Música"
+    ],
+    "puntos_lealtad": 3288,
+    "gastos_mensuales": 9466.84,
+    "ingresos": 13161.72
+  },
+  {
+    "id_cliente": 535,
+    "nombre": "Daniel Flores",
+    "edad": 61,
+    "ciudad": "Chihuahua",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina",
+      "Hogar",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 971,
+    "gastos_mensuales": 3513.93,
+    "ingresos": 8975.27
+  },
+  {
+    "id_cliente": 536,
+    "nombre": "Andrea Aguilar",
+    "edad": 19,
+    "ciudad": "Mérida",
+    "pais": "México",
+    "preferencias": [
+      "Música",
+      "Cocina",
+      "Moda"
+    ],
+    "puntos_lealtad": 2914,
+    "gastos_mensuales": 4701.05,
+    "ingresos": 10870.65
+  },
+  {
+    "id_cliente": 537,
+    "nombre": "Ana Ortiz",
+    "edad": 41,
+    "ciudad": "Puebla",
+    "pais": "Mex",
+    "preferencias": [
+      "Viajes",
+      "Electrónica",
+      "Cocina"
+    ],
+    "puntos_lealtad": 970,
+    "gastos_mensuales": 1302.63,
+    "ingresos": 13938.86
+  },
+  {
+    "id_cliente": 538,
+    "nombre": "Miguel Flores",
+    "edad": 62,
+    "ciudad": "Monterrey",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes",
+      "Hogar",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 3736,
+    "gastos_mensuales": 10530.03,
+    "ingresos": 23191.77
+  },
+  {
+    "id_cliente": 539,
+    "nombre": "Ana Álvarez",
+    "edad": 51,
+    "ciudad": "Juárez",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Moda"
+    ],
+    "puntos_lealtad": 1207,
+    "gastos_mensuales": 3140.91,
+    "ingresos": 12134.98
+  },
+  {
+    "id_cliente": 540,
+    "nombre": "Ana Rivera",
+    "edad": 62,
+    "ciudad": "Oaxaca",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes",
+      "Música",
+      "Cocina"
+    ],
+    "puntos_lealtad": 484,
+    "gastos_mensuales": 3661.11,
+    "ingresos": 6442.54
+  },
+  {
+    "id_cliente": 541,
+    "nombre": "Arturo Vargas",
+    "edad": 60,
+    "ciudad": "Aguascalientes",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes",
+      "Belleza"
+    ],
+    "puntos_lealtad": 206,
+    "gastos_mensuales": 5152.83,
+    "ingresos": 10679.86
+  },
+  {
+    "id_cliente": 542,
+    "nombre": "Fernando Pérez",
+    "edad": 38,
+    "ciudad": "Morelia",
+    "pais": "Mex",
+    "preferencias": [
+      "Música",
+      "Hogar"
+    ],
+    "puntos_lealtad": 1577,
+    "gastos_mensuales": 11773.68,
+    "ingresos": 20384.7
+  },
+  {
+    "id_cliente": 543,
+    "nombre": "Fernando Torres",
+    "edad": 20,
+    "ciudad": "León",
+    "pais": "mex",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 2782,
+    "gastos_mensuales": 11628.06,
+    "ingresos": 20917.0
+  },
+  {
+    "id_cliente": 544,
+    "nombre": "Francisco Aguilar",
+    "edad": 37,
+    "ciudad": "León",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 557,
+    "gastos_mensuales": 1005.77,
+    "ingresos": 11901.82
+  },
+  {
+    "id_cliente": 545,
+    "nombre": "Guadalupe Gómez",
+    "edad": 39,
+    "ciudad": "Hermosillo",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Música",
+      "Deportes"
+    ],
+    "puntos_lealtad": 769,
+    "gastos_mensuales": 11374.33,
+    "ingresos": 25712.84
+  },
+  {
+    "id_cliente": 546,
+    "nombre": "Daniel Ramírez",
+    "edad": 56,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Música",
+      "Tecnología",
+      "Hogar"
+    ],
+    "puntos_lealtad": 4491,
+    "gastos_mensuales": 5474.13,
+    "ingresos": 14921.81
+  },
+  {
+    "id_cliente": 547,
+    "nombre": "Ricardo Rivera",
+    "edad": 30,
+    "ciudad": "Puebla",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 4341,
+    "gastos_mensuales": 8107.69,
+    "ingresos": 17661.09
+  },
+  {
+    "id_cliente": 548,
+    "nombre": "Luis Aguilar",
+    "edad": 54,
+    "ciudad": "Toluca",
+    "pais": "mex",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 605,
+    "gastos_mensuales": 11951.68,
+    "ingresos": 26636.78
+  },
+  {
+    "id_cliente": 549,
+    "nombre": "Raúl Torres",
+    "edad": 66,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Belleza",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 3418,
+    "gastos_mensuales": 4357.09,
+    "ingresos": 17792.39
+  },
+  {
+    "id_cliente": 550,
+    "nombre": "Luis Sánchez",
+    "edad": 19,
+    "ciudad": "Oaxaca",
+    "pais": "mex",
+    "preferencias": [
+      "Viajes",
+      "Libros"
+    ],
+    "puntos_lealtad": 4695,
+    "gastos_mensuales": 2501.92,
+    "ingresos": 6945.06
+  },
+  {
+    "id_cliente": 551,
+    "nombre": "Fernando Ramos",
+    "edad": 48,
+    "ciudad": "Puebla",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar",
+      "Cocina",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3113,
+    "gastos_mensuales": 8498.63,
+    "ingresos": 15169.03
+  },
+  {
+    "id_cliente": 552,
+    "nombre": "Ana García",
+    "edad": 20,
+    "ciudad": "Saltillo",
+    "pais": "Mex",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 2260,
+    "gastos_mensuales": 6304.19,
+    "ingresos": 10091.86
+  },
+  {
+    "id_cliente": 553,
+    "nombre": "Letizia Jiménez",
+    "edad": 57,
+    "ciudad": "Morelia",
+    "pais": "mex",
+    "preferencias": [
+      "Hogar",
+      "Cocina"
+    ],
+    "puntos_lealtad": 3798,
+    "gastos_mensuales": 9287.1,
+    "ingresos": 12146.87
+  },
+  {
+    "id_cliente": 554,
+    "nombre": "Raúl Chávez",
+    "edad": 42,
+    "ciudad": "San Luis Potosí",
+    "pais": "mexico",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 4735,
+    "gastos_mensuales": 5334.51,
+    "ingresos": 7878.25
+  },
+  {
+    "id_cliente": 555,
+    "nombre": "Monica Castro",
+    "edad": 20,
+    "ciudad": "León",
+    "pais": "mexico",
+    "preferencias": [
+      "Tecnología",
+      "Cocina",
+      "Deportes"
+    ],
+    "puntos_lealtad": 371,
+    "gastos_mensuales": 6631.27,
+    "ingresos": 14502.19
+  },
+  {
+    "id_cliente": 556,
+    "nombre": "Sergio Ramírez",
+    "edad": 67,
+    "ciudad": "Mérida",
+    "pais": "mexico",
+    "preferencias": [
+      "Música",
+      "Tecnología",
+      "Deportes"
+    ],
+    "puntos_lealtad": 1413,
+    "gastos_mensuales": 2926.32,
+    "ingresos": 10640.52
+  },
+  {
+    "id_cliente": 557,
+    "nombre": "Laura Chávez",
+    "edad": 59,
+    "ciudad": "Culiacán",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros",
+      "Deportes"
+    ],
+    "puntos_lealtad": 4151,
+    "gastos_mensuales": 8527.47,
+    "ingresos": 22275.25
+  },
+  {
+    "id_cliente": 558,
+    "nombre": "Fernando Álvarez",
+    "edad": 26,
+    "ciudad": "Hermosillo",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2699,
+    "gastos_mensuales": 9521.79,
+    "ingresos": 23713.74
+  },
+  {
+    "id_cliente": 559,
+    "nombre": "Sergio Martínez",
+    "edad": 47,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 2704,
+    "gastos_mensuales": 5881.22,
+    "ingresos": 19537.25
+  },
+  {
+    "id_cliente": 560,
+    "nombre": "Francisco López",
+    "edad": 51,
+    "ciudad": "Hermosillo",
+    "pais": "México",
+    "preferencias": [
+      "Electrónica",
+      "Belleza",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3152,
+    "gastos_mensuales": 2078.65,
+    "ingresos": 9920.83
+  },
+  {
+    "id_cliente": 561,
+    "nombre": "Ricardo Juárez",
+    "edad": 27,
+    "ciudad": "Toluca",
+    "pais": "México",
+    "preferencias": [
+      "Música",
+      "Deportes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1515,
+    "gastos_mensuales": 11017.23,
+    "ingresos": 20368.62
+  },
+  {
+    "id_cliente": 562,
+    "nombre": "Laura Ramírez",
+    "edad": 58,
+    "ciudad": "Toluca",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes",
+      "Música",
+      "Libros"
+    ],
+    "puntos_lealtad": 1127,
+    "gastos_mensuales": 4266.61,
+    "ingresos": 16258.81
+  },
+  {
+    "id_cliente": 563,
+    "nombre": "Laura Reyes",
+    "edad": 49,
+    "ciudad": "Veracruz",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes"
+    ],
+    "puntos_lealtad": 4092,
+    "gastos_mensuales": 7772.68,
+    "ingresos": 13063.12
+  },
+  {
+    "id_cliente": 564,
+    "nombre": "Daniel Jiménez",
+    "edad": 23,
+    "ciudad": "Oaxaca",
+    "pais": "Mex",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 2054,
+    "gastos_mensuales": 7395.26,
+    "ingresos": 15579.52
+  },
+  {
+    "id_cliente": 565,
+    "nombre": "Gabriela Vázquez",
+    "edad": 20,
+    "ciudad": "Puebla",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros",
+      "Tecnología",
+      "Hogar"
+    ],
+    "puntos_lealtad": 4785,
+    "gastos_mensuales": 1347.89,
+    "ingresos": 5275.22
+  },
+  {
+    "id_cliente": 566,
+    "nombre": "María Sánchez",
+    "edad": 61,
+    "ciudad": "Mérida",
+    "pais": "México",
+    "preferencias": [
+      "Libros",
+      "Moda",
+      "Belleza"
+    ],
+    "puntos_lealtad": 3780,
+    "gastos_mensuales": 1349.15,
+    "ingresos": 8769.59
+  },
+  {
+    "id_cliente": 567,
+    "nombre": "Francisco Castro",
+    "edad": 42,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Moda",
+      "Deportes"
+    ],
+    "puntos_lealtad": 4559,
+    "gastos_mensuales": 1843.01,
+    "ingresos": 7733.84
+  },
+  {
+    "id_cliente": 568,
+    "nombre": "Arturo Hernández",
+    "edad": 39,
+    "ciudad": "Cancún",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros"
+    ],
+    "puntos_lealtad": 4347,
+    "gastos_mensuales": 6073.15,
+    "ingresos": 9659.45
+  },
+  {
+    "id_cliente": 569,
+    "nombre": "Raúl Aguilar",
+    "edad": 51,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Hogar"
+    ],
+    "puntos_lealtad": 2402,
+    "gastos_mensuales": 7655.0,
+    "ingresos": 11075.93
+  },
+  {
+    "id_cliente": 570,
+    "nombre": "Andrea Vázquez",
+    "edad": 26,
+    "ciudad": "Oaxaca",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Moda"
+    ],
+    "puntos_lealtad": 4307,
+    "gastos_mensuales": 3708.19,
+    "ingresos": 13185.04
+  },
+  {
+    "id_cliente": 571,
+    "nombre": "Javier Martínez",
+    "edad": 18,
+    "ciudad": "Monterrey",
+    "pais": "Mex",
+    "preferencias": [
+      "Viajes",
+      "Cocina",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 3858,
+    "gastos_mensuales": 10697.03,
+    "ingresos": 15722.41
+  },
+  {
+    "id_cliente": 572,
+    "nombre": "Roberto Rivera",
+    "edad": 58,
+    "ciudad": "Tijuana",
+    "pais": "Mex",
+    "preferencias": [
+      "Belleza",
+      "Hogar",
+      "Música"
+    ],
+    "puntos_lealtad": 1698,
+    "gastos_mensuales": 5437.26,
+    "ingresos": 11776.56
+  },
+  {
+    "id_cliente": 573,
+    "nombre": "José Ramos",
+    "edad": 18,
+    "ciudad": "Monterrey",
+    "pais": "mex",
+    "preferencias": [
+      "Libros",
+      "Cocina",
+      "Belleza"
+    ],
+    "puntos_lealtad": 2846,
+    "gastos_mensuales": 4247.05,
+    "ingresos": 12834.02
+  },
+  {
+    "id_cliente": 574,
+    "nombre": "Monica Flores",
+    "edad": 61,
+    "ciudad": "Morelia",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Deportes"
+    ],
+    "puntos_lealtad": 341,
+    "gastos_mensuales": 10118.88,
+    "ingresos": 14641.08
+  },
+  {
+    "id_cliente": 575,
+    "nombre": "Roberto Castro",
+    "edad": 39,
+    "ciudad": "Culiacán",
+    "pais": "mexico",
+    "preferencias": [
+      "Electrónica",
+      "Viajes",
+      "Cocina"
+    ],
+    "puntos_lealtad": 508,
+    "gastos_mensuales": 7824.65,
+    "ingresos": 21421.41
+  },
+  {
+    "id_cliente": 576,
+    "nombre": "Diana Vargas",
+    "edad": 68,
+    "ciudad": "Aguascalientes",
+    "pais": "Mex",
+    "preferencias": [
+      "Libros",
+      "Moda",
+      "Deportes"
+    ],
+    "puntos_lealtad": 1273,
+    "gastos_mensuales": 3132.54,
+    "ingresos": 14043.95
+  },
+  {
+    "id_cliente": 577,
+    "nombre": "Monica Sánchez",
+    "edad": 54,
+    "ciudad": "Oaxaca",
+    "pais": "mexico",
+    "preferencias": [
+      "Deportes",
+      "Moda"
+    ],
+    "puntos_lealtad": 1585,
+    "gastos_mensuales": 11816.53,
+    "ingresos": 21961.17
+  },
+  {
+    "id_cliente": 578,
+    "nombre": "Juan Reyes",
+    "edad": 33,
+    "ciudad": "Aguascalientes",
+    "pais": "mexico",
+    "preferencias": [
+      "Belleza",
+      "Libros",
+      "Moda"
+    ],
+    "puntos_lealtad": 2529,
+    "gastos_mensuales": 8750.21,
+    "ingresos": 14279.68
+  },
+  {
+    "id_cliente": 579,
+    "nombre": "Diana Rodríguez",
+    "edad": 67,
+    "ciudad": "Tijuana",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3685,
+    "gastos_mensuales": 4185.96,
+    "ingresos": 7644.97
+  },
+  {
+    "id_cliente": 580,
+    "nombre": "Raúl Juárez",
+    "edad": 51,
+    "ciudad": "Mérida",
+    "pais": "mex",
+    "preferencias": [
+      "Deportes",
+      "Viajes",
+      "Electrónica"
+    ],
+    "puntos_lealtad": 1223,
+    "gastos_mensuales": 2930.37,
+    "ingresos": 16937.65
+  },
+  {
+    "id_cliente": 581,
+    "nombre": "Raúl Rodríguez",
+    "edad": 47,
+    "ciudad": "Hermosillo",
+    "pais": "Mex",
+    "preferencias": [
+      "Tecnología"
+    ],
+    "puntos_lealtad": 83,
+    "gastos_mensuales": 8379.23,
+    "ingresos": 12104.55
+  },
+  {
+    "id_cliente": 582,
+    "nombre": "Carlos Díaz",
+    "edad": 67,
+    "ciudad": "Mérida",
+    "pais": "Mex",
+    "preferencias": [
+      "Deportes",
+      "Belleza"
+    ],
+    "puntos_lealtad": 4781,
+    "gastos_mensuales": 4532.85,
+    "ingresos": 18092.27
+  },
+  {
+    "id_cliente": 583,
+    "nombre": "Roberto Flores",
+    "edad": 67,
+    "ciudad": "Culiacán",
+    "pais": "Mex",
+    "preferencias": [
+      "Hogar",
+      "Moda"
+    ],
+    "puntos_lealtad": 2283,
+    "gastos_mensuales": 3046.22,
+    "ingresos": 8771.6
+  },
+  {
+    "id_cliente": 584,
+    "nombre": "Andrea Álvarez",
+    "edad": 50,
+    "ciudad": "Monterrey",
+    "pais": "México",
+    "preferencias": [
+      "Electrónica"
+    ],
+    "puntos_lealtad": 4494,
+    "gastos_mensuales": 3864.73,
+    "ingresos": 6063.07
+  },
+  {
+    "id_cliente": 585,
+    "nombre": "Diana Ramírez",
+    "edad": 54,
+    "ciudad": "León",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología",
+      "Moda"
+    ],
+    "puntos_lealtad": 633,
+    "gastos_mensuales": 3835.78,
+    "ingresos": 18098.39
+  },
+  {
+    "id_cliente": 586,
+    "nombre": "Miguel Reyes",
+    "edad": 61,
+    "ciudad": "Ciudad de México",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina",
+      "Moda"
+    ],
+    "puntos_lealtad": 3192,
+    "gastos_mensuales": 6854.46,
+    "ingresos": 9513.9
+  },
+  {
+    "id_cliente": 587,
+    "nombre": "Andrea Castro",
+    "edad": 55,
+    "ciudad": "Culiacán",
+    "pais": "mex",
+    "preferencias": [
+      "Belleza"
+    ],
+    "puntos_lealtad": 2609,
+    "gastos_mensuales": 5576.42,
+    "ingresos": 9903.2
+  },
+  {
+    "id_cliente": 588,
+    "nombre": "Sonia Jiménez",
+    "edad": 54,
+    "ciudad": "Puebla",
+    "pais": "Mex",
+    "preferencias": [
+      "Hogar",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 3886,
+    "gastos_mensuales": 1679.71,
+    "ingresos": 15675.9
+  },
+  {
+    "id_cliente": 589,
+    "nombre": "Sonia Jiménez",
+    "edad": 48,
+    "ciudad": "León",
+    "pais": "México",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 1227,
+    "gastos_mensuales": 4276.39,
+    "ingresos": 14653.83
+  },
+  {
+    "id_cliente": 590,
+    "nombre": "José Rivera",
+    "edad": 38,
+    "ciudad": "Culiacán",
+    "pais": "mexico",
+    "preferencias": [
+      "Libros",
+      "Moda",
+      "Música"
+    ],
+    "puntos_lealtad": 297,
+    "gastos_mensuales": 2853.55,
+    "ingresos": 16777.99
+  },
+  {
+    "id_cliente": 591,
+    "nombre": "Arturo Sánchez",
+    "edad": 36,
+    "ciudad": "Aguascalientes",
+    "pais": "México",
+    "preferencias": [
+      "Viajes"
+    ],
+    "puntos_lealtad": 4211,
+    "gastos_mensuales": 2064.34,
+    "ingresos": 10286.82
+  },
+  {
+    "id_cliente": 592,
+    "nombre": "José Álvarez",
+    "edad": 59,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Música"
+    ],
+    "puntos_lealtad": 4414,
+    "gastos_mensuales": 9956.59,
+    "ingresos": 22314.44
+  },
+  {
+    "id_cliente": 593,
+    "nombre": "María Reyes",
+    "edad": 42,
+    "ciudad": "Guadalajara",
+    "pais": "mex",
+    "preferencias": [
+      "Música",
+      "Cocina"
+    ],
+    "puntos_lealtad": 1755,
+    "gastos_mensuales": 3472.04,
+    "ingresos": 8640.02
+  },
+  {
+    "id_cliente": 594,
+    "nombre": "Fernando García",
+    "edad": 29,
+    "ciudad": "Guadalajara",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Música",
+      "Tecnología"
+    ],
+    "puntos_lealtad": 986,
+    "gastos_mensuales": 7152.77,
+    "ingresos": 13601.38
+  },
+  {
+    "id_cliente": 595,
+    "nombre": "María Ramírez",
+    "edad": 43,
+    "ciudad": "Guadalajara",
+    "pais": "Mex",
+    "preferencias": [
+      "Cocina",
+      "Viajes",
+      "Moda"
+    ],
+    "puntos_lealtad": 4935,
+    "gastos_mensuales": 7016.98,
+    "ingresos": 19703.28
+  },
+  {
+    "id_cliente": 596,
+    "nombre": "Ana Chávez",
+    "edad": 26,
+    "ciudad": "Chihuahua",
+    "pais": "Mex",
+    "preferencias": [
+      "Moda",
+      "Viajes"
+    ],
+    "puntos_lealtad": 1251,
+    "gastos_mensuales": 8023.88,
+    "ingresos": 10823.15
+  },
+  {
+    "id_cliente": 597,
+    "nombre": "Ana Martínez",
+    "edad": 61,
+    "ciudad": "San Luis Potosí",
+    "pais": "mex",
+    "preferencias": [
+      "Electrónica",
+      "Viajes",
+      "Libros"
+    ],
+    "puntos_lealtad": 4721,
+    "gastos_mensuales": 5167.81,
+    "ingresos": 14680.92
+  },
+  {
+    "id_cliente": 598,
+    "nombre": "Andrea Díaz",
+    "edad": 43,
+    "ciudad": "Puebla",
+    "pais": "mex",
+    "preferencias": [
+      "Libros",
+      "Música",
+      "Moda"
+    ],
+    "puntos_lealtad": 561,
+    "gastos_mensuales": 11891.24,
+    "ingresos": 21466.69
+  },
+  {
+    "id_cliente": 599,
+    "nombre": "Francisco Pérez",
+    "edad": 36,
+    "ciudad": "Querétaro",
+    "pais": "México",
+    "preferencias": [
+      "Tecnología",
+      "Deportes"
+    ],
+    "puntos_lealtad": 3586,
+    "gastos_mensuales": 809.45,
+    "ingresos": 10089.84
+  },
+  {
+    "id_cliente": 600,
+    "nombre": "Daniel Álvarez",
+    "edad": 31,
+    "ciudad": "Toluca",
+    "pais": "mexico",
+    "preferencias": [
+      "Cocina",
+      "Música",
+      "Moda"
+    ],
+    "puntos_lealtad": 1189,
+    "gastos_mensuales": 8771.86,
+    "ingresos": 16050.28
+  }
+]

@@ -1,0 +1,6 @@
+﻿ID_Meta,Año,Meta_Proyecto,KPI_Indicador,Responsable,Prioridad,Estado_Inicial
+M001,2026,Migración completa a base de datos de producción,100% de las tablas históricas migradas a PostgreSQL sin pérdida de integridad.,Ingeniería de Datos,Alta,En Progreso
+M002,2026,Automatización del pipeline de datos ETL,Pipeline programado diariamente con tasa de error menor al 1%.,DevOps / Data Ops,Alta,Planificado
+M003,2026,Implementación de modelos analíticos avanzados (PCA y Clústeres),Segmentación de clientes automatizada e integrada en el flujo principal.,Ciencia de Datos,Media,Planificado
+M004,2026,Optimización de la calidad del dato (Limpieza y Deduplicación),Reducción de registros nulos y duplicados por debajo del 0.1% en data_master.,Control de Calidad (QA),Media,En Progreso
+M005,2026,Despliegue de dashboards interactivos avanzados (Flujos Sankey),Tiempo de carga del reporte inferior a 3 segundos y actualización automatizada.,BI / Visualización,Alta,Planificado
